@@ -1,0 +1,29 @@
+---
+layout: post
+date: 2013-02-11
+title: "Gender differences and their importance"
+tags: dance, english, gender, lead and follow
+---
+A lot of conversations about dance get side tracked into conversations about gender differences. In Tango, [some people](http://yangningyuan.blogspot.fr/2012/11/tango-and-gender-equality.html) take it as a given that there is male energy and female energy, and that men are good at expressing male energy and get to lead and women are good at expressing female energy and get to follow. In the Lindy world, Lloyd [explains why men lead and women follow](http://www.lloydianaspects.co.uk/dance/menlead.html). In a [followup article](http://www.lloydianaspects.co.uk/dance/yehoodi1.html), he says that if he were to write all over again, he would order his arguments differently. 
+
+First he would argue, *lead and follow isn't command and obey* (agreed). Next, *someone has to do it* (more or less agreed, depending on the dance) and *each sex can specialise* (while it makes sense to some extent, specialisation is for insects, and I think there are crossover benefits from one role to the other, but that's a subject for another post). Then, *sex is part of the fun* (again, that's a whole 'nother post[^2], related to sensuality, sexuality and their role in social dance). Finally, *there is a reason convention is the way round that it is: men are taller, stronger, like to lead, and women like to follow*.
+
+While I agree the argument from convention is a reasonably strong one (more in Tango, perhaps than in Lindy), I want to concentrate on the question of gender differences. Are men really taller and stronger? Do men really like showing off more? Do women really like being in the arms of a strong man to satisfy some genetic compulsion to find a good mate?
+
+I'm going to side-track into gender differences. Seeing as I don't believe that dance roles need be gendered in any way, I don't really care in what way specific gender stereotypes match certain ideals of dance roles. But I do care about gender differences, whether they exist, and if so, how big they are. We often hear that "men are from Mars and women are from Venus". Counter arguments to this tell us that differences within sexes are far greater than differences between sexes. But what does that mean?
+
+The magnitude of the difference between two groups is the [effect sizes](http://en.wikipedia.org/wiki/Effect_size), expressed either as Cohen's D (number of standard deviations between the means) or an r^2 (amount of variance explained by group membership). This doesn't translate very well into understandable numbers, which is why I'm very happy to have stumbled on the Common Language Effect Size ([CLES](http://www.leeds.ac.uk/educol/documents/00002182.htm)), which translates very well into dance. Men are taller than women with an effect size of 2sd (about 6 inches). Taking a random dance couple, this translates into a 92% likelyhood that the man is taller than the woman[^1].
+
+If this has consequences for dance in general (1 in every 10 pairings not having the "ideal" height role assignment), it is even more important for me. At 5'7'', I'm actually shorter than about 30% of american women (this number is down to 10% considered worldwide). 
+
+But what about other traits? Janet Hyde has a great [meta-analysis article](http://www.careerpioneernetwork.org/wwwroot/userfiles/files/the_gender_similarities_hypothesis.pdf) on gender differences. She argues that while there are indubitably differences, in the overwhelming majority of cases, the genders are more similar than dissimilar. Some are clear, such as strength. In 9 out of 10 dance couples (1.98sd), the guy can throw a ball further than the girl. But psychological traits paint less of an obvious story. Taking physical agression, the strongest finding is a 0.84sd effect size, translating to just under 75% of pairs having the guy as most agressive. However Most measures, for example spatial visualisation, are around the 0.2sd effect size, translating into 56%, 6% more than random.
+
+So according to this study[^3], even if there *were* psychological differences between the sexes which were related to leading and following, at most 7/10 dance pairs would have the "correct" roles. Even more likely this number is smaller than 6/10 couples, arriving very close to 50%.
+
+As it happens, I'm pretty convinced that we are good at whatever dance role we practice and, as far as I'm concerned I love following as much as leading, so I try to practice it when I can. I've never been all "social dance is bad because gender roles". But I have struggled with the whole different but equal thing, not to mention the difficulty of understanding statistics. This whole post was mostly just because I'm excited at having found a table to translate effect sizes into the probability of a random pairing conforming to the difference.
+
+[^2]: Partially alluded to [in this post I wrote](http://scriptogr.am/gregdyke/post/dance-is-a-conversation)
+
+[^1]: Of course, this assumes that dancer populations are similar to the real population in their gender differences. And that dance partners select each other disregarding height, or whatever other measure. 
+
+[^3]: Another study, looking at [multivariate effect size based on latent variables](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0029265), claims that on certain sets of personality traits, gender differences are much bigger, at up to 2.7sd. (Without the latent variable magic trick, it's still at 1.7sd). Even so, at 2.7sd, assuming all these traits were a necessity for a good follow/lead, out of 100 people who had these traits, 9 of them would be the "wrong" gender.  
