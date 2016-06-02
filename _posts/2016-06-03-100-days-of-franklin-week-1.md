@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-06-02 
+date: 2016-06-03
 title: "100 Days of Franklin - Week 1 : Constructive Rest and Tapping"
 tags: franklin, english
 ---
@@ -9,7 +9,7 @@ The goal of this week is to start off easy (while still accomplishing a lot!). W
 
 Each day we'll do some constructive rest and some tapping. Feel free to switch up the order. Tapping before may increase awareness for constructive rest. Tapping after may benefit from the results of constructive rest.
 
-![Constructive Rest Drawing](Lie-Down-Drawing.jpg)
+![Constructive Rest Drawing](/images/Lie-Down-Drawing.jpg)
 
 Constructive rest position is lying on your back, knees tucked up and feet lying flat on the floor (alternatively with feet/lower legs propped up on the seat of a chair, or with feet against a wall). Elbows on the floor, palms of hands on your abdomen (or wherever is comfy). Possibly with a few books or a folded towel under your head to keep the spine better aligned through the cervical vertebrae. In this position, let your body relax into the floor. This is a good position for finding release throughout the body, working on various images without interference of muscle tone used to maintain a standing or sitting position, and letting your body rest and integrate new information. (Dynamic Alignment through Imagery chapter 6 contains a description of the position. In Chapter 1, the position's use/naming is credited to Mabel Todd.)
 
@@ -51,7 +51,7 @@ Focus on your breath. How does it affect the parts of your back that touch the f
 
 Extend first one leg down flat, relax in that position for a while, then raise it again, imagining your leg is raised by a string pulling on your knees. Do the same with the other leg. Imagine your legs are resting on a coat hanger.
 
-![Coat hanger image](clothes-hanger.jpg)
+![Coat hanger image](/images/clothes-hanger.jpg)
 
 
 ## Day 5
