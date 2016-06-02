@@ -7,6 +7,14 @@ tags: franklin, english
 
 Welcome to 100 days of Franklin. Committing to doing things as a group is often more motivating and effective than trying to do them on our own. Which is why I've asked you guys to join me. (If there isn't currently a Facebook event, welcome! Feel free to read through and try out different weeks/days at your own pace).
 
+Franklin Method is a collection of tools based on imagery, embodiment and anatomical knowledge that aim to help change and improve the function of your body, and that are notoriously difficult to describe concisely. 
+
+If you haven't done any Franklin before, [Dynamic Alignment through Imagery](https://www.amazon.co.uk/Dynamic-Alignment-Through-Imagery-Franklin/dp/0736067892/) is a pretty heavy read, but is incredibly value for money. Along with [Pelvic Power](https://www.amazon.co.uk/Pelvic-Power-Exercises-Strength-Flexibility/dp/0871272598/) and [Relax your Neck, Liberate your Shoulders](https://www.amazon.co.uk/Relax-Your-Neck-Liberate-Shoulders/dp/0871272482), it's the main "textbook" we are following. Some [Franklin balls](http://franklinmethod.com/products1/equipments) will also help. And maybe a yoga mat and some books.
+
+**disclaimer: I am not in any way affiliated with or certified in Franklin Method (R): http://franklinmethod.com/**
+
+![Cute skeleton](/images/skeleton-computer.jpg)
+
 Every week I'll propose a theme. And every day I'll propose an exercise. But the goal is to work on something every day - so if you want to work on something else, feel free to - and keep us posted on what you're doing. 
 
 The schedule for the upcoming weeks is something like
