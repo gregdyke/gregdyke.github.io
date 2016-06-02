@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-06-02 
+date: 2016-06-02 
 title: "100 Days of Franklin: Introduction"
 tags: franklin, english
 ---
