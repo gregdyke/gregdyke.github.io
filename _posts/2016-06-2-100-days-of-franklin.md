@@ -10,6 +10,7 @@ Welcome to 100 days of Franklin. Committing to doing things as a group is often 
 Every week I'll propose a theme. And every day I'll propose an exercise. But the goal is to work on something every day - so if you want to work on something else, feel free to - and keep us posted on what you're doing. 
 
 The schedule for the upcoming weeks is something like
+
   * Week 1. Constructive rest and tapping
   * Week 2. Sitting and standing
   * Week 3. Plié movements
