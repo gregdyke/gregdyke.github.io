@@ -11,7 +11,7 @@ Franklin Method is a collection of tools based on imagery, embodiment and anatom
 
 If you haven't done any Franklin before, [Dynamic Alignment through Imagery](https://www.amazon.co.uk/Dynamic-Alignment-Through-Imagery-Franklin/dp/0736067892/) is a pretty heavy read, but is incredibly value for money. Along with [Pelvic Power](https://www.amazon.co.uk/Pelvic-Power-Exercises-Strength-Flexibility/dp/0871272598/) and [Relax your Neck, Liberate your Shoulders](https://www.amazon.co.uk/Relax-Your-Neck-Liberate-Shoulders/dp/0871272482), it's the main "textbook" we are following. Some [Franklin balls](http://franklinmethod.com/products1/equipments) will also help. And maybe a yoga mat and some books.
 
-**disclaimer: I am not in any way affiliated with or certified in Franklin Method (R): http://franklinmethod.com/**
+**Disclaimer: I am not in any way affiliated with or certified in [Franklin Method (R)](http://franklinmethod.com/)**
 
 ![Cute skeleton](/images/skeleton-computer.jpg)
 
