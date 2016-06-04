@@ -52,7 +52,7 @@ Focus on your breath. How does it affect the parts of your back that touch the f
 Extend first one leg down flat, relax in that position for a while, then raise it again, imagining your leg is raised by a string pulling on your knees. Do the same with the other leg. Imagine your legs are resting on a coat hanger.
 
 ![Coat hanger image](/images/clothes-hanger.jpg)
-
+Image from DATI(https://www.amazon.co.uk/Dynamic-Alignment-Through-Imagery-Franklin/dp/0736067892/), Introduction
 
 ## Day 5
 
