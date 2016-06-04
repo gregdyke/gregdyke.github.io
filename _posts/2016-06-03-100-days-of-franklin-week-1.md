@@ -78,4 +78,4 @@ Tapping. Tap and sweep your whole body. When tapping, make aaaaaaaaaaaaah sounds
 
 If you haven't posted yet this week, tell us your impression of week 1. Were you able to stay present through over 49mn of constructive rest? Have your body or perception altered? Did any images work surprisingly well or poorly?
 
-Every week, we'll do at least a day of imagery in constructive rest.
+Every week, we'll do at least a day of imagery in constructive rest. See you next week for some sitting and standing. Until then, may your spheres always be aligned.
