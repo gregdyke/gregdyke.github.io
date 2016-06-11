@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-06-11
-title: "100 Days of Franklin - Week 2. Sitting and Standing”
+title: "100 Days of Franklin - Week 2: Sitting and Standing”
 tags: franklin, english
 ---
 
