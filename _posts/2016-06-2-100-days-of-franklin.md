@@ -19,8 +19,8 @@ Every week I'll propose a theme. And every day I'll propose an exercise. But the
 
 The schedule for the upcoming weeks is something like
 
-  * Week 1. Constructive rest and tapping
-  * Week 2. Sitting and standing
+  * Week 1. [Constructive rest and tapping](/2016/06/03/100-days-of-franklin-week-1.html)
+  * Week 2. [Sitting and standing](2016/06/11/100-days-of-franklin-week-2.html)
   * Week 3. Plié movements
   * Week 4. Shoulder girdle
   * Week 5. Spine
