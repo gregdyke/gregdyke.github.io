@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-06-03
-title: "100 Days of Franklin - Week 1: Constructive Rest and Tapping"
+title: "100 Days of Franklin - Week 1. Constructive Rest and Tapping"
 tags: franklin, english
 ---
 
