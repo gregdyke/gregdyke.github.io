@@ -51,8 +51,6 @@ In particular, imagine getting up. And initiate the movement. Does your sitting 
 
 Repeat yesterday's tapping while sitting and examine how it changes your posture and ability to move.
 
-Now stand up.
-
 ## Day 10
 
 Start with standing and use the last two day's tapping to find the posture your body would like to be in. Notice how it feels.
