@@ -11,7 +11,7 @@ Pliés are a fancy French term for flexing at the ankles, knees and hips, to bri
 
 I'll assume a fairly great amount of anatomical knowledge for this week. If you have any problems, let me know. In the meantime, I'll post in the comments some illustrations with some landmarks we will be referring to:
 
-- pelvic halveses
+- pelvic halves
 - iliac crests
 - pubic symphysis
 - sit bones
