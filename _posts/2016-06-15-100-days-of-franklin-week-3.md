@@ -10,6 +10,7 @@ After working on resting, standing and sitting positions, for week three, we're 
 Pliés are a fancy French term for flexing at the ankles, knees and hips, to bring the upper body down. In ballet, a plié has some more specific constraints on it. In our case, we will mostly focus on a plié with feet aligned for walking (the line from heel to 2nd toe goes forward, as do the knees, during the plié).
 
 I'll assume a fairly great amount of anatomical knowledge for this week. If you have any problems, let me know. In the meantime, I'll post in the comments some illustrations with some landmarks we will be referring to:
+
 - pelvic halves
 - iliac crests
 - pubic symphysis
