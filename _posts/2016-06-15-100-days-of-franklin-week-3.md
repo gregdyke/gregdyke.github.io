@@ -78,6 +78,7 @@ The femur meets the knee joint with two condyles, like two small wheels, the out
 Going down to the ankle, the tibia splits off on the outside into the fibula. The tibia forms the main weight bearing joint with the talus (ankle bone), with the fibula providing some minimal weight bearing and lateral stability. The central line of weight when doing plié will track from the heel over to the 2nd toe.
 
 Because of the asymmetric shape of the condyles, when going into plié, the femur rotates out, and rotates back in when coming up straight again. Because the fibula has further to travel over the talus in flexion, the lower leg (tibia+fibula) rotates inward by about the same amount as the femur rotates out, allowing the knee to track straight over the 2nd toe. The heel to 2nd toe line remains about constant, with the increased spread of the foot distributing as if the foot were rotating (or fanning) outwards. Add to this the movement of the ASIS/sit bones, and we have:
+
 - Plié. ASIS rotates in, sit bones flare out, femur rotates out, tibia rotates in, foot rotates out.
 - Déplié. ASIS rotates out, femur rotates in, tibia rotates out, foot rotates in.
 
@@ -125,6 +126,7 @@ Last, the knee cap. On the underside, is like a rocker. As the condyles roll and
 Today we're adding some ideas for putting various individual bone rhythms together for plié.
 
 You can imagine any of these as the source or consequence of the plié. You can also imagine any of these movements as creating a stretch which will allow you to spring back out of plié.
+
 - The sacrum and sitbones form a triangle supporting your pelvic floor. As you plié, the three points of the triangle move away from each other, expanding your pelvic floor.
 - The sitbones widen and fan out. At the same time, the greater trochanter rolls out. The net result is that as you plié, the greater trochanter moves towards the sitbones
 - The ASIS and tibia are joined together in the inward spiral on plié.
@@ -132,6 +134,7 @@ You can imagine any of these as the source or consequence of the plié. You can 
 - The sitbones and heel bone are joined together on outward flare on plié (heel bone flaring out is an movement we haven't discussed before)
 
 Continuing with the some of Sweigard's lines of movement, introduced last week, the more directly relevant to this week are
+
 - Line 5: widening of the back of the pelvis
 - Line 6: narrowing of the front of the pelvis
 - Line 7: center of the femoral condyles to hip joint (remember the hip joint is often quite further inward than we imagine)
