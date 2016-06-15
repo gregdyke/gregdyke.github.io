@@ -33,7 +33,7 @@ I'll assume a fairly great amount of anatomical knowledge for this week. If you 
 ## Day 15
 
 Let's start with some tapping of the pelvic area, and make sure we've identified the following landmarks:
-- ASIS (bony protrusions sticking out of the front of our pelvis - they are the front part of the iliac crest)
+- ASISs (bony protrusions sticking out of the front of our pelvis - they are the front part of the iliac crest)
 - PSIS (bony protrusions sticking out of the rear of our pelvis - they are the back part of the the iliac crest)
 - Sacrum - An inverted curved triangle, at the base of our spine, closing the rear of the pelvis (between the PSISs)
 - Coccyx (or tailbone) - bottom few vertebra, below the sacrum
