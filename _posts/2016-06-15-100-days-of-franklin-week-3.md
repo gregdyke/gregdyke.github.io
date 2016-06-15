@@ -26,7 +26,7 @@ I'll assume a fairly great amount of anatomical knowledge for this week. If you 
 - tibia
 - fibula
 
-![labled-diagram-of-pelvis](/images/pelvis-labels.jpg)
+![labled-diagram-of-pelvis](/images/pelvis-labels.jpg)  
 (Illustration from Pelvic Power)
 
 ## Day 15
@@ -40,7 +40,7 @@ Let's start with some tapping of the pelvic area, and make sure we've identified
 - Pubic symphysis - where the pelvic halves join at the front.
 - Acetabulum - hip joint. The hip joints are above the sitbone, about index-thumb width apart, pretty much in the middle of the crease that is formed when you flex your legs.
 
-![pelvis-from-side](/images/pelvis-from-side.png)
+![pelvis-from-side](/images/pelvis-from-side.png)  
 (Illustration from Pelvic Power)
 
 Now, do a dozen or so pliés, focusing on where you are at today. How much range of motion do you have before your torso or arms need to move to balance? How far down do you go (keep your heels on the floor)? Do all three points of articulation (hips, knees, ankles) continuously flex until you reach your maximum? Is one of the three articulations the limiting point of your plié?
@@ -81,7 +81,7 @@ Because of the asymmetric shape of the condyles, when going into plié, the femu
 
 For today, we're going to image each of these in turn, starting with the right leg. Stand on your right leg, with your right foot out in front of you for balance.
 
-![leg spirals in plié from top](/images/plie-spirals-from-top.png)
+![leg spirals in plié from top](/images/plie-spirals-from-top.png)  
 (Illustration from DATI - a: plié down, b: déplié up)
 
 You or a partner can help in the image by providing "assistive" rotation with your hands. (Note that the rotational movement is small, is more *relative* to surrounding structures as it is *absolute* in space, and that these images are designed to let rather than force the movement to happen).
@@ -94,7 +94,7 @@ You or a partner can help in the image by providing "assistive" rotation with yo
 
 We'll work more tomorrow on combining images, but as you go into plié, imagine that the different rotations (sort of counter-spirals) each allow energy to be stored, as if you were winding up a watch, allowing you to straighten back up again effortlessly.
 
-![leg spirals in plié front](/images/plie-spirals-from-front.png)
+![leg spirals in plié front](/images/plie-spirals-from-front.jpg)  
 (Illustration from DATI)
 
 Walk around, comparing your left and right leg. Repeat each of the images on your right leg, then on both legs simultaneously.
@@ -115,8 +115,8 @@ Seen from the tibial plateau, on the other hand, it looks like the condyles are 
 
 Last, the knee cap. On the underside, is like a rocker. As the condyles roll and slide, they leave the knee cap behind, touching the top part of the rocker. Seen from the knee cap, it is relatively sliding down and away, as if it were on a slide, or a boat riding a wave. Do some pliés with that image.
 
-![knee cap rhythm](/images/kneecap-rhythm.png)
-(Illustration from Dati)
+![knee cap rhythm](/images/kneecap-rhythm.png)  
+(Illustration from DATI)
 
 ## Day 18
 
