@@ -100,7 +100,7 @@ It's Friday! Before going into constructive rest (tomorrow, for a change), we wi
 
 First, pectoralis major and pectoralis minor. For me these are super tight muscles that contribute a lot to lack of freedom in the shoulder girdle. 
 
-The pectoralis major is a fan stemming from the upper humerus and fanning out towards the medial part of the clavicle, the sternum and down towards the bottom ribs (where the abs connect). It is a twisted fan which is fully unfurled when your arms are up. It is responsible for movement of the arm. http://www.youtube.com/watch?v=-sDSLL3tXAI
+The pectoralis major is a fan stemming from the upper humerus and fanning out towards the medial part of the clavicle, the sternum and down towards the bottom ribs (where the abs connect). It is a twisted fan which is fully unfurled when your arms are up. It is responsible for movement of the arm. <http://www.youtube.com/watch?v=-sDSLL3tXAI>
 
 The pectoralis minor is a smaller fan stemming from the coracoid process and fanning out to the 3rd-5th ribs. It lies under the pectoralis major and is responsible for some of the movement of the sternum (working in coordination with the serratus anterior).
 
