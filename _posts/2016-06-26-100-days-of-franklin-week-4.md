@@ -9,6 +9,8 @@ This week we're working in the shoulder girdle. We'll mostly be taking ideas fro
 
 Because my shoulders tend to be tense, we'll work a lot on tension release.
 
+See you tomorrow - may your shoulders never be tense!
+
 ## Day 22
 
 Explore your shoulder girdle, figuring out what you know and don't know. How many bones can you find? Where do they articulate with each other? What do they do? How do they do it? What muscles are attached and where?
