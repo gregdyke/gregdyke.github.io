@@ -94,7 +94,9 @@ Because we are holding on to the chair, the shoulder can't move upwards. If this
 
 Repeat three times. Before changing sides, hold your arms up in the air and compare them.
 
-Day 26. It's Friday! Before going into constructive rest (tomorrow, for a change), we will just explore a few more muscles.
+## Day 26
+
+It's Friday! Before going into constructive rest (tomorrow, for a change), we will just explore a few more muscles.
 
 First, pectoralis major and pectoralis minor. For me these are super tight muscles that contribute a lot to lack of freedom in the shoulder girdle. 
 
@@ -111,7 +113,7 @@ To relax these muscles:
 
 ![Spiraling pecs](/images/spiraling-pecs.png) 
 
-And second (or bonus as this has been a long day already), two sets of muscles that *elongate* when you raise your arms: the rhomboid and the levator scapulae. Allowing these muscles to elongate with strength and elasticity will contribute to smoother movement and posture.
+And second (or bonus as this has been a long day already, if so, skip to the last paragraph), two sets of muscles that *elongate* when you raise your arms: the rhomboid and the levator scapulae. Allowing these muscles to elongate with strength and elasticity will contribute to smoother movement and posture.
 
 The rhomboid is a deep set of muscles linking the spine to the medial edge of the scapula. The levator scapulae links the top of the neck to the top of the medial edge of the scapula. Together, these muscles allow the scapula to hang "off" the spine. They are often tight - giving them permission to release will let your shoulder blades hang with both more stability and more mobility. https://www.youtube.com/watch?v=3nhC0wUrUFE 
 
@@ -123,19 +125,23 @@ Repeat this movement two or three times. Then put the band down and take in the 
 
 Finally, visualise an ascending current through the levator scapulae and a descending one through the trapezius. Travel with your fingers from the shoulder blade to the upper transverse processes of the spine, and from the back of the head along the trapezius downward to the acromion. Repeat on the other side.
 
-Day 27. Constructive rest day!
+## Day 27
+
+Constructive rest day!
 
 Settling into constructive rest try rolling your left side towards your center, and the unrolling as if you were a carpet. Repeat on the right.
 
-During, stretch an arm out on the floor near your pelvis, palm up. Using just the wrist (not the shoulder muscles), gradually move your hand and arm out to the side, letting the full weight of your arm settle into the ground between movements.
+During constructive rest, stretch an arm out on the floor near your pelvis, palm up. Using just the wrist (not the shoulder muscles), gradually move your hand and arm out to the side, letting the full weight of your arm settle into the ground between movements.
 
 Image all the bone rhythms of the shoulder blade on one side. Image moving your arm from the clavicle at the sternume. Imagine you are standing and your arm is a rope, hanging from the sternum. Let the rope swing.
 
 Recall all the muscles you can. What happens to these muscles if you imagine raising your hand. Feel the currents of these muscles and the directions in which they elongate and shorten. Let them move excentrically to gently settle you even further into the floor.
 
-Day 28. Today is about releasing the shoulder girdle.
+## Day 28
 
-Rope. This is an extension of tuesday's exercise. Imagine your arm is a rope. Let it gradually become a rope, from the hand up. The hand swings on the wrist, the forearm swings from the elbow, the arm swings from the shoulder, and the whole rope swings through the clavicle from the sternum. Lean over to the side, and let this rope hang and dangle. Let it fully swing from the sternum for two minutes. Keeping the rope swinging from the sternum, straighten up into standing position. Compare left and right arm.
+Today is about releasing the shoulder girdle.
+
+This is an extension of tuesday's exercise. Imagine your arm is a rope. Let it gradually become a rope, from the hand up. The hand swings on the wrist, the forearm swings from the elbow, the arm swings from the shoulder, and the whole rope swings through the clavicle from the sternum. Lean over to the side, and let this rope hang and dangle. Let it fully swing from the sternum for two minutes. Keeping the rope swinging from the sternum, straighten up into standing position. Compare left and right arm.
 
 Picture your shoulder girdle as a cape, lightly draped around your ribcage. It is open in front and attached to the top of the sternum with a sparkling diamond pin. Imagine a soothing wind blowing. As the wind sends ripples through the soft cloth the cape (shoulder girdle) lifts, creating a space between the rib cage and cape. As the wind dies down, the cape slowly settles against the rib cage. Repeat this exercise 2 or 3 times. (DATI, chapter 13)
 
