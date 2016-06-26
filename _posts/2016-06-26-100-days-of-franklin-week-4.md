@@ -37,7 +37,7 @@ After tapping (and, if you like, massaging) your shoulder girdle, arms and chest
 
 They are basically inverted triangles. From the tip at the bottom, near the spine, the side near the spine goes almost straight up. The other side diagonals up towards the shoulder joint. If you follow the side near the spine upward, you come to a point where a ridge leaves towards the shoulder. From the point where the ridge leaves, the side of the shoulder blade also briefly continues upwards and inwards, before also turning into an inside ridge heading back in and slightly down towards the shoulder. The outside and inside ridges together form a valley that is the top "side" of the shoulder blade. The outside ridge turns into the the acromion, which meets the calvicle. The inside ridge turns into the coracoid process, the "front" of the shoulder blade, to which many muscles are attached, notably the pectoralis minor.
 
-We don't need to focus on the pectoralis minor itself at the moment, but this 3D video gives a pretty good overview of the area. [https://www.youtube.com/watch?v=PV1LF9-6epQ]
+We don't need to focus on the pectoralis minor itself at the moment, but this 3D video gives a pretty good overview of the area. <https://www.youtube.com/watch?v=PV1LF9-6epQ>
 
 As you have noticed by now, the clavicles and shoulder blades are at an angle to each other, meeting at the shoulder joint and widening respectively towards the back and to the front. Imagine that shape seen from above, as a mouth. Picture the mouth yawning wide open.
 
@@ -64,15 +64,15 @@ Often the coracoid is pressed downwards due to a sagging upper body posture, sho
 Time to identify some muscles. We worked on some scapular rhythms yesterday, so we'll start with some of the muscles that attach to the scapula (there are over 18 total, we won't go into all of them). 
 
 First, the trapezius. It is separated into 3 bundles and is the big one that is often tense and knotted. The top bundle connects the neck to the outside (lateral) third of the clavicle and is responsible for raising the clavicle. When you massage your neck/shoulders, this is the main muscle you're massaging. The mid bundle connects the top 4 vertebra of the thoracic spine to the acromion and the (lateral) adjacent parts of the scapular spine. It is the one that gets super knotted. It is responsible for raising/rotating the outward edge of the shoulder blade. The bottom bundle connects the remaining 8 vertebra of the thoracic spine to the inside (medial part) of the scapular spine. It is responsible for lowering/rotating the inward edge of the shoulder blade.
-Check out this video: [https://www.youtube.com/watch?v=Cicdi4Q98Z0]
+Check out this video: <https://www.youtube.com/watch?v=Cicdi4Q98Z0>
 
 Next, the serratus anterior. It connects the medial edge of the scapula (the edge nearest your spine) to your ribs, much of the way round the front, passing in front of the scapula (underneath it). It is responsible for helping the scapula rotate round to the front to help it elevate the arm (as well as rotating round to the front when you cross your arms in front of you). It also helps keep the scapula nicely secured against the ribcage, as well as something nice for it to slide along smoothly.
-Check out this video: [https://www.youtube.com/watch?v=-tlcuAKTr1Y]
+Check out this video: <https://www.youtube.com/watch?v=-tlcuAKTr1Y>
 
 Finally, the subscapularis. It inserts at a similar place to the serratus, and goes between the serratus and the scapula, towards the humerus. We won't get into detail of it's functions, except, as you can see in the video above, it also provides a layer for the scapula to slide along smoothly.
 
 Check out how these (and other) muscles contribute to raising your arm:
-[https://www.youtube.com/watch?v=LKo5hlD6GW8]
+<https://www.youtube.com/watch?v=LKo5hlD6GW8>
 
 (NB: Rather than thinking of muscles lengthening and shortening, it's more helpful to think of the fibres of the muscle as sliding into and away from each other, much like interlocking hair combs.)
 
@@ -115,7 +115,7 @@ To relax these muscles:
 
 And second (or bonus as this has been a long day already, if so, skip to the last paragraph), two sets of muscles that *elongate* when you raise your arms: the rhomboid and the levator scapulae. Allowing these muscles to elongate with strength and elasticity will contribute to smoother movement and posture.
 
-The rhomboid is a deep set of muscles linking the spine to the medial edge of the scapula. The levator scapulae links the top of the neck to the top of the medial edge of the scapula. Together, these muscles allow the scapula to hang "off" the spine. They are often tight - giving them permission to release will let your shoulder blades hang with both more stability and more mobility. [https://www.youtube.com/watch?v=3nhC0wUrUFE]
+The rhomboid is a deep set of muscles linking the spine to the medial edge of the scapula. The levator scapulae links the top of the neck to the top of the medial edge of the scapula. Together, these muscles allow the scapula to hang "off" the spine. They are often tight - giving them permission to release will let your shoulder blades hang with both more stability and more mobility. <https://www.youtube.com/watch?v=3nhC0wUrUFE>
 
 As you raise your arms, imagine these muscles working eccentrically (they are stretching out, but instead of letting go, the are gently placing the scapula in its outwardly swung state). Visualise the space between the shoulder blades, and between the shoulder blade and head.
 
