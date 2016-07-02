@@ -52,7 +52,7 @@ Thinking of Laura's videos, I'm reminded of a video I watched about 18 months ag
 
 ## Day 32
 
-It's giraffe party time! (hat tip to Ruth)
+It's giraffe party time! (hat tip to Ruth Evelyn, a Blues teacher who uses Franklin and many images in her teaching)
 
 ![Giraffe Party Time!](/images/giraffe.jpg)
 
