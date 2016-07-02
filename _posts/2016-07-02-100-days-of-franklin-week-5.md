@@ -54,7 +54,7 @@ Thinking of Laura's videos, I'm reminded of a video I watched about 18 months ag
 
 It's giraffe party time! (hat tip to Ruth)
 
-![Giraffe Party Time!](/images/giraffe.png)
+![Giraffe Party Time!](/images/giraffe.jpg)
 
 Today we're going to focus on the individual vertebra. A vertebra has a cylindrical body, which is the main part of the "stack" of vertebrae making up the spine, separated by disks. Behind it, a vertebral arch sticks out, consisting of two upper and two lower articular joints (to articulate with the vertebrae above and below), and three processes to which many muscles and ligaments attach - the spinous process sticking out the the back and the transverse process sticking out to either side.
 
