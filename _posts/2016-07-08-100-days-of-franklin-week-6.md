@@ -24,6 +24,7 @@ Roll your feet and ankles
 Review what you know of foot and ankle anatomy
 
 Roll your achilles heel and calf
+
 - place an orange ball underneath your achilles heel (finding a comfortable position for this can be challenging)
 - flex and extend your foot 15 times (carrying the flexion and extension all the way into the toes)
 - move the ball to the lower calf and repeat
