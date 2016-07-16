@@ -24,8 +24,8 @@ The schedule for the upcoming weeks is something like
   * Week 3. [Plié movements](/2016/06/15/100-days-of-franklin-week-3.html)
   * Week 4. [Shoulder girdle](/2016/06/26/100-days-of-franklin-week-4.html)
   * Week 5. [Spine](/2016/07/02/100-days-of-franklin-week-5.html)
-  * Week 6. Foot and ankle
-  * Week 7. Neck
+  * Week 6. [Foot and Ankle](/2016/07/02/100-days-of-franklin-week-6.html)
+  * Week 7. [Neck and Head](/2016/07/16/100-days-of-franklin-week-7.html)
   * Week 8. Breathing (guest week with Vera Salvisberg, with some work based on  “Anatomy of Breathing” by Blandine Calais-Germain)
   * Week 9. Pelvic floor
   * Week 10. Real Life Franklin (guest week with Gilles Cherix, applying previous weeks to everyday movement) 

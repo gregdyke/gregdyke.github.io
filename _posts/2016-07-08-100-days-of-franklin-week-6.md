@@ -12,6 +12,7 @@ See you tomorrow and may you always have your best foot forward!
 ## Day 36
 
 Roll your feet and ankles
+
 - toes side to side
 - heel side to side
 - front to back
