@@ -21,7 +21,7 @@ Now imagine the triangle widens. The legs react with a slow lateral sinking. Lif
 
 How does your pelvic floor feel after this?
 
-##Day 58
+## Day 58
 
 New day, new triangle. 
 
