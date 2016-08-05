@@ -5,7 +5,7 @@ title: "100 Days of Franklin - Week 10: Real Life Franklin"
 tags: franklin, english
 ---
 
-Now that we’ve build the habit of paying attention to our body at least 7 minutes a day, let’s add a layer and incorporate some Franklin into our day-to-day movements. We won’t add any new knowledge this week but use what we’ve seen previously on movements that we all do : taking a shower, brushing our teeth, driving, cooking or washing the dishes. We’ll start tomorrow morning… lying in bed!
+Now that we’ve build the habit of paying attention to our body at least 7 minutes a day, let’s add a layer and incorporate some Franklin into our day-to-day movements. We won’t add any new knowledge this week but use what we’ve seen previously on movements that we all do : sitting at a desk, walking, taking a shower, brushing our teeth, cooking or washing the dishes. We’ll start tomorrow morning… lying in bed!
 
 ## Day 64 - Lying in bed
 
@@ -21,17 +21,8 @@ Then we'll picture the rest of the spiral : tibia rolling in and foot rolling ou
 
 Finally, let's try keeping the whole spiraling rhythm in mind while lifting the knee : foot and femor going together out. Tibia and ASIS going together in. And when we're extending : foot and femor going together in, tibia and ASIS going together out.
 
-Get up and take a walk paying attention to your posture and walking. Do you notice anything? Go on with your day and try to think about those bone rythms once every hour during your day for just one minute. You can set up a timer on your phone for example to remind you to regularly check in with your body.
+Do the same with the other leg, before getting up. Take a walk paying attention to your posture and walking. Go on with your day and try to think about those bone rythms once every hour during your day for just one minute. You can set up a timer on your phone for example to remind you to regularly check in with your body.
 
-######
-
-Vera Salvisberg I'm finally catching up on Franklin! Do you do only the right leg, or the left as well? Before or after getting up? Also femur with u ;)
-August 10, 2015 at 9:00pm · Like
-Gilles Cherix Thanks for the comment! I forgot to add the other leg. You do it, but only if you'd like too.
-
-I would do it before getting up just because I'm lazy. You can also get up and walk to pay attention to your body and then get back to bed to do the other leg.
-
-######
 
 ## Day 65 - Brushing your teeth
 
@@ -55,7 +46,7 @@ Try it again the next time you brush your teeth. Do you notice a difference?
 
 ## Day 66 - Sitting at your desk
 
-Today we'll use the sitting position to work on our pelvic floor. Let's start by putting two orange balls under our sit bones. How does this position feel? How does it compare with sitting directly on the chair? How does it feel to adjust for balance?
+Today we'll use the sitting position to work on our pelvic floor. Let's start by putting two orange balls under our sit bones. If you don't have massage balls, just roll a pair of thick hiking socks into a ball and use that instead. How does this position feel? How does it compare with sitting directly on the chair? How does it feel to adjust for balance? Play a little bit with your weight on on sitbones and the other.
 
 Let's remove the balls, "walk" forward and backward in the chair on our sit bones and notice how it feels.
 
@@ -67,7 +58,18 @@ Finally, we'll sit again and draw or write with our sacrum. Can you feel it move
 
 Again, you can set a timer to remind you to do that regularly if your sitting for a long period of time.
 
-## Day 67 - Constructive rest
+## Day 67 - Sitting at a desk (again)
+
+Today we are going to take care of our shoulders. We'll start on a chair. Pay attention to the way you sit. Can you feel your sitbones? How does the rest of your body feel?
+
+We will work on relaxing our face and neck by first putting the palm of our hands on our eyes. We'll stay there for a minute or so, focusing our attention on our face and all the muscles in the face as well as around the eyes. Let everything melt into your hands.
+
+Then we'll use two orange balls to massage the jaw. We'll put the balls just in front of our ears and roll them down. The rolling should relax the jaw, your mouth may open while doing so. Let the muscles melt under the balls. If you don't have orange balls, you can the palm of your hands to massage.
+
+Finally, put the balls at each side of your neck and slowly roll it forward as you let your head drop forward. Roll them back as your lift our head again. Keep breathing at all time.
+
+
+## Day 68 - Constructive rest
 
 Today we'll use our time to lay down in the constructive rest position before diving again in our daily movement.
 
@@ -79,29 +81,25 @@ When you're ready, picture the sand leaving your body, particle by particle. You
 
 Start with your right big toe and empty your whole body. Keep breathing at all time.
 
-## Day 68 - Sitting at a desk (again)
 
-Today we are going to take care of our shoulders. We'll start on a chair. Pay attention to the way you sit. Can you feel your sitbones? How does the rest of your body feel?
+## Day 69 - Walking
 
-We will work on relaxing our face and neck by first putting the palm of our hands on our eyes. We'll stay there for a minute or so, focusing our attention on our face and all the muscles in the face as well as around the eyes. Let everything melt into your hands.
+How many steps do you take each take? I'm speaking litteraly. How much do you walk even on days when you feel that you haven't done much?
 
-Then we'll use two orange balls to massage the jaw. We'll put the balls just in front of our ears and roll them down. The rolling should relax the jaw, your mouth may open while doing so. Let the muscles melt under the balls.
+Each step we take involves a great deal of movement in the whole body. This weekend, we're going to spend two days paying attention to some of those movements.
 
-Finally, put the balls at each side of your neck and slowly roll it forward as you let your head drop forward. Roll them back as your lift our head again. Keep breathing at all time.
+Today I would like to invite you to pay attention to your walking. Start by being aware of how your foot touches the ground, how does your weight impact and how does your foot react? Then move your attention to your knees and finally to your pelvis, be aware of the movement in each joint step after step.
 
-## Day 69 Closed-chain spiral
+Then we are going to imagine our foot enlarging when they bear our weight. Slowly take a step and imagine your foot becoming a large and stable base as it is loaded with your weight. Imagine the whole foot spreading on the ground starting with the toes. Try that on one side and then compare with the other side.
 
-Let’s start by scanning our body and stay with it for a minute or so. Notice how you feel without judgement or any adjustment.
+Remember the spiral we had on Monday? Can you imagine it while walking? Can you feel them happenning?
 
-Then we'll use a Franklin ball to roll our left foot :
-- start by pinching the ball under the side of the foot, then the front, then the other side and then the back. Do it 3 or 4 times.
-- then put the ball under your toes and roll your feet so that the big toe touches the floor and then the pinkie touches the floor. Do the same with the ball under your heel.
-- put the ball under your feet and roll it from toe to heel for some times.
+## Day 70 - Stairs
 
-Stand again and pay attention to how you feel. Do you notice any changes? Take some steps. Can you feel the difference in your posture? How well can you feel your feet on the floor?
+Last day of our day-to-day exploration of movement, with of a focus on walking up stairs. Dare to skip the elevator and use stairs instead, it's a wonderful workout !
 
-Do the other side and take a walk again. Can you feel your feet rolling from front to back? Can you feel it rolling from side to side as your leg straightens?
+Start by paying attention of your movement as you slowly walk a flight of stairs. What do you feel in your feet, ankles, knees, hip joints, pelvis? How hard is it to lift your leg to the next step? What kind of effort do you have to make to lift your body up to that step?
 
-Now put your attention on the tibia. You know what it does when your leg bends and straightens. Can you feel it? Imagine the movement happing in your body. Does it help feeling it? Do the same for the femur and the pelvic halves.
+Picture one of your pelvic half as a wheel. The wheel is rolling backwards each time you lift your leg. The rolling of the wheel is helping your leg lift. At each step, the wheel is doing the work. Can you feel your sacrum nutating towards that leg, supporting the work?
 
-As you go on with your day, take a couple of minutes to notice what you feel when you’re walking. It is ok if you don’t feel a lot happening, the mere action of bringing your attention to each part of your legs when you move will improve your movement.
+Once your leg is on the next step, picture your pelvic half rolling forward on your femor head to bring your body up. Picture your femor head as a buoy floating on a wave. The wave is coming from behind, softly bringing you up to the next step.
