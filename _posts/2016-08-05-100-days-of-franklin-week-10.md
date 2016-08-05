@@ -1,9 +1,11 @@
 ---
 layout: post
-date: 2016-08-06
+date: 2016-08-05
 title: "100 Days of Franklin - Week 10: Real Life Franklin"
 tags: franklin, english
 ---
+
+*This is a guest week brought to you by [Gilles Cherix](http://gillescherix.ch/)*
 
 Now that we’ve build the habit of paying attention to our body at least 7 minutes a day, let’s add a layer and incorporate some Franklin into our day-to-day movements. We won’t add any new knowledge this week but use what we’ve seen previously on movements that we all do : sitting at a desk, walking, taking a shower, brushing our teeth, cooking or washing the dishes. We’ll start tomorrow morning… lying in bed!
 
