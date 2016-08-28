@@ -28,9 +28,9 @@ The schedule for the upcoming weeks is something like
   * Week 7. [Neck and Head](/2016/07/16/100-days-of-franklin-week-7.html)
   * Week 8. [Breathing](/2016/07/23/100-days-of-franklin-week-8.html) (guest week with Vera Salvisberg, with some work based on  “Anatomy of Breathing” by Blandine Calais-Germain)
   * Week 9. [Pelvic floor](/2016/07/31/100-days-of-franklin-week-9.html)
-  * Week 10. Real Life Franklin (guest week with Gilles Cherix, applying previous weeks to everyday movement) 
-  * Week 11. Hands and arms
-  * Week 12. Floors and ceilings (sole of the foot, pelvic floor, diaphragm, roof of the mouth)
+  * Week 10. [Real Life Franklin](/2016/08/05/100-days-of-franklin-week-10.html) (guest week with Gilles Cherix, applying previous weeks to everyday movement) 
+  * Week 11. [Hands and arms](/2016/08/22/100-days-of-franklin-week-11.html)
+  * Week 12. [Floors and ceilings](/2016/08/28/100-days-of-franklin-week-12.html) (sole of the foot, pelvic floor, diaphragm, roof of the mouth)
   * Week 13. Different kinds of imagery
   * Week 14. Balance
   * Last two days. Reflection

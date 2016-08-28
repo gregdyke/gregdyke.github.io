@@ -8,16 +8,16 @@ This post was written in part as a reaction to a [post by Nick Williams](http://
 
 This ties into a wider sense of uneasiness and annoyance I have with regard to the way modern culture confuses style, technique, vocabulary and expression. It not only hampers getting at what is important (to my eyes) but also taints the way people talk about dance and music. Of course these aren't the only words for these concepts and the way I define them is probably not the only way. But I'm fairly certain that, whatever words we put on them, the following concepts should not be confused.
 
-####Technique
+### Technique
 This has two aspects. The first is that technique is the foundation of vocabulary: there are things that you cannot say or do if you don't have the technique down. The second is structural (good posture, doing a given movement "correctly") and ranges from something that all can agree on (your technique should not cause or increase the likelyhood of permanent injury) to things that are often arbitrary and taken as ground truths ("you should hold your violin and bow in this way") despite many examples of people "overcoming" a supposed lack of technique ([Liz Carrol's left hand hold on fiddle](http://www.youtube.com/watch?v=D4fT5V14uns) and [Michael McGoldrick's shoulder hold on flute](http://www.youtube.com/watch?v=oUrZ6j9O-_s) being prime examples). There is no harm in encouraging beginners to seek out "perfect" technique, but I feel uncomfortable when, in art, technique becomes a stylistic element, admired for its own sake (check out the comments of any amateur youtube violin video to see people comment on bow holds, wrists, vibratos, posture, tone, intonation and all that rubbish which is absolutely meaningless in the grand scheme of things - is it good music?).
 
-####Vocabulary[^4]
+### Vocabulary[^4]
 This is what you do with your technique. In dance it's the "moves" (although I would argue that while dance can be analysed as a sequence of moves, it should not be thought of as [constructed in that way](http://gregdyke.tiddlyspot.com/#%5B%5BDe%20quoi%20est%20compos%C3%A9e%20la%20danse%20%3F%5D%5D). In music it's the arpeggios, the phrases, the ways of ornamenting, the ways of varying. When performance art[^3] is prepared (composed or choreographed) what is often decided on is vocabulary. When improvising, elements of vocabulary are put together (again, this is post-hoc decomposition into elements of vocabulary, which does not necessarily imply intentional combination). Vocabulary is a construct we use to talk about reusable discrete units. In actual practice, the realization of one of these units belongs on a continuum with infinite possibilities.
 
-####Style
+### Style
 Style is both the individualisation of art and the collection of individualisations which define genres. Lindy hop, classical music, waltz, tango, bourrée, etc. It is in some way akin to dialect in language, except that, instead of serving the purpose of mutual intelligibility, it serves the dual purpose of "shortcut to creativity" and signal of belonging to a group. While vocabulary and technique sometimes incorporate or become part of stylistic elements, I believe it is fundamentally style which creates the boundaries from one genre to another, and a sufficient body of individuals pushing in a new direction which creates new stylistic schools and, eventually, new genres. Style is problematic - because it's usually hard to put into words - and hard to teach. And often confusion between technique and style causes uniformity where there is no need for it. Style can also be mere "passing" fashion when it doesn't go into a new genre or is not considered essential to a genre (like the "rolling triple step" of many early 2000 "groove" lindy hop videos).
 
-####Expression
+### Expression
 Expression (which some people often call "emotion", a whole 'nother discussion I won't go into here) is the statement you are making. It is what is fundamentally important in art. It's what distinguishes art from sport. In sport, perfect technique can be admired both for its own sake and for the better performance it enables (though "rogue" skiers such as Bode Miller have shown how finding the best movement for one's own body can be better than technical perfection). In art, what you say is where it's at.
 
 So what kinds of things do performance artists say? They can express a choreography/composition. Or they can improvise, be creating on the fly. The two are different but can be looked at in a similar way.
@@ -29,7 +29,7 @@ So what kinds of things do performance artists say? They can express a choreogra
   * "Here is who I am". The quintessential statement. It can be about who one is in the absolute, or who one is right now (or who one is acting as being). I like the honesty, the "in the moment"ness, the ephemerity of these statements, particularly when they are made in the context of social partner dancing. We are not waxing philosophical, we're saying "here is how it feels to be me, dancing with you, to this music, at this time, in this place". This is the kind of statement that anyone can make, even with limited vocabulary and technique. I also believe it is the fundamental power of music and dance to allow anyone, regardless of their ability, to communicate, to express themselves and, often, to get off their chest things that words cannot express.
   * "I'm going to be entertaining". A relative of "look how awesome I can be", which is possibly orthogonal to the rest of artistic expression, but it specifically focuses on audience entertainment - something which some consider to be a cheap trick and which others consider the primary role of artists.
 
-###Where is the problem?
+### Where is the problem?
 
 The main problem, as I see it, is that we (human pop culture as a whole) currently overemphasize beauty (and showmanship) and technique. Beauty is only one of the ways to make a statement about what performance art should be, but it isn't even the only way to make such a statement, let alone the only kind of artistic statement that can be made. Showmanship is kind of orthogonal to expression but seems to best suit a race to the bottom (in that most of the expression I describe above cannot be perceived without a certain cultural background, but anyone can be impressed if they feel entertained).
 
@@ -37,7 +37,7 @@ But the worst is technique. My current pet theory is that with the increased nee
 
 (This focus on technique also makes it easier for the general public to appreciate "art" - because then the only reason they don't do art is that they think they need massive amounts of technique - rather than the simple desire to take a risk. It also simplifies art understanding - you can listen to a judge claim that the singing wasn't in tune - and nod your head in agreement, as if in-tuneness even matters all that much - or can be objectively evaluated).
 
-###Back to defining a dance
+### Back to defining a dance
 
 So... what does this mean for the post that sparked all of this. From my descriptions above it will come as no surprise that I think that what defines a dance is its style - not its vocabulary, its technique or what it expresses. And for a post about defining the dance, Nick talks surprisingly little about style (except where he confounds it with the decried free for all of "feeling it") and rather too much about expression and technique.
 
@@ -63,7 +63,7 @@ Expression (?emotion) has nothing to do with either technique or style. There is
 
 Nick then gives a video example of someone who is "feeling it", but can't dance. He says it sucks because the balance between emotion and technique is not there and so he doesn't get pleasure out of it because it's not "good dancing". I say it sucks because it doesn't know what it's expressing - there are aspects of fitting (very badly - e.g. because of lack of basic musicality) into a genre, aspects of (very poor) showmanship and some pretty nice aspects of "this is who I am". There is definitely an aspect of technical limitation, but with a more appropriately chosen discourse, the expression could be really touching and personal - even if not that profound (statements about who we are are rarely all that profound - but that's the beauty of social dancing - you express fleeting, ephemeral things which disappear as soon as the moment is over, which do not need to be profound).
 
-###Conclusion: more expression, less technique; what does that have to do with style?
+### Conclusion: more expression, less technique; what does that have to do with style?
 
 So there you have it. Rather than place judgement of good dancing on expression *and* technique, I would rather judge artistic expression based on what it is trying to say and the means that it uses to say it, thereby sidestepping the question of technique altogether. This is one part of my response to Nick's post. 
 

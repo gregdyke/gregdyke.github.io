@@ -10,7 +10,7 @@ Different people come in with different assumptions about what dancing is about,
 
 Anyway, here are some of the things (mostly about Lindy, but some of them also apply to Blues, Tango and Folk dancing) that beginners might believe which are, at the very least, contrary to how *I* think about social dancing. Obviously, all of these are also partly true, given the right caveats. For most of them, I wouldn't want to "fix" them altogether, but at least make beginners aware early on that things may not be as they seem. 
 
-###Dancing is about stepping on the right foot in the right direction at the right time
+### Dancing is about stepping on the right foot in the right direction at the right time
 
 This is a commonly held belief about all dancing: you have to know the "steps" or "the basic". We reinforce this belief because typically, the first thing we teach is to count out the music and to step on the left or right foot on a given count. 
 
@@ -20,7 +20,7 @@ Where the foot falls also tends to be part of the description of movement: e.g.,
 
 And the "right direction and right time" suggests there's a wrong direction or wrong time. There is *wrong for what you're trying to achieve* (including dancing to the music) and *wrong because it's not honest movement* but otherwise there is no wrong. 
 
-###Lindy either goes step step triplestep step step triplestep or step step triplestep triplestep
+### Lindy either goes step step triplestep step step triplestep or step step triplestep triplestep
 
 The general idea that dance has a basic step pattern which you should adhere to is related to the point above. It's what most people believe, and it is frequently what is taught in the first lesson, since getting this in muscle memory will free the brain to think of other things in future lessons. 
 
@@ -28,7 +28,7 @@ The teaching of a basic step pattern also alleviates one of the problems inheren
 
 However, Lindy can be danced in any number of step patterns, which can be led or left to the discretion of the follow. If there *is* a pattern, the most discernible one is that you come together with a "rock step" or "step step" and end apart with a triple step (or whatever sets you up for the next rock step). 
 
-###The lead should micromanage the follow's footwork
+### The lead should micromanage the follow's footwork
 
 Following the realization that footwork does not have to follow a pattern but can still be led, leads tend to then focus on leading every. Single. Step (and expect follows to follow them to the letter - or risk being labeled an incompetent or "misbehaving" follow). In certain circumstances, footwork can definitely be strictly led or followed, but there are other options:
 
@@ -89,13 +89,13 @@ By not waiting to try out more than just "the basics", you will realize that it 
 
 Most dancers do things that are beyond their ability or outside the basics they are learning. Rather than feeling guilty or letting other people judge them for it, we should accept that it not only happens, but is practically unavoidable and is most likely beneficial to learning. 
 
-###You are a beginner and dance is hard
+### You are a beginner and dance is hard
 
 Being labeled a beginner is reassuring. Often, people ask "How long have you been dancing?". When you reach the 2 or 3 year mark it's an uncomfortable question: you think to yourself "I've been dancing for *this long* and I'm still this bad at it?". So it's rather nice to have "oh, I'm a beginner" or "yeah, we'll he's a pro" to fall back on as a justification. 
 
 But most new dancers truly do bring a bunch of relevant knowledge to their first lesson. Knowing how to walk, some intuitive or explicit knowledge of music, a life of experience and things to say. Teachers who make students believe that they don't even know how to walk are not empowering them to have confidence in yourself, or drawing effectively on their existing knowledge and placing them in the zone of proximal 
 
-###Conclusion
+### Conclusion
 
 Dance is many things to many people. Figuring things out may seem a bit like counting angels on the head of a pin, but it also helps us realise to what extent our assumptions are not universally held as true. For some, it may be liberating to learn in the safe certainty that our teachers have a plan that will end up beneficially for us. For me, finding out the myriad of different ways to approach dance, refining my own thinking and ignoring the aspects of dance that don't appeal to me or that I think are downright misguided is the liberation to pursue my own inner dancer.
 
