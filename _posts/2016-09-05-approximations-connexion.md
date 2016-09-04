@@ -9,10 +9,9 @@ Les danses de couple (Folk, Lindy Hop, Blues, Tango ou autre) présentent deux d
 
 De un, il faut danser. J'ai essayé d'y échapper un petit moment, en me disant que tant que mes partenaires et moi y prenaient du plaisir, nul besoin de savoir danser tout seul - que "danser" était seulement accessible aux "danseurs" déjà capables de bouger gracieusement, avec tout leur corps, en musique - que c'était inutile et peut-être impossible. Mais maintenant, je suis convaincu que, pour mieux s'exprimer à deux, il faut être capable de s'exprimer tout seul et se donner un maximum de moyens en apprenant à utiliser l'instrument du danseur: son corps.
 
-L'autre difficulté est la connexion: comment "guider" et "suivre" [1]; comment communiquer clairement ; comment choisir et guider un mouvement pour soi-même et pour ses partenaires ; comment comprendre et suivre les mouvements proposés. Et pour ça, j'ai longtemps cru que le répertoire des chorégraphies rythmiques et des figures associé à chaque danse spécifique était le moyen pour y arriver, et que cette deuxième difficulté avait peu de rapport avec la première. J'ai donc longtemps délaissé l'importance de savoir danser, pour mieux me focaliser sur cette fameuse connexion.
+L'autre difficulté est la connexion: comment "guider" et "suivre"[^1]; comment communiquer clairement ; comment choisir et guider un mouvement pour soi-même et pour ses partenaires ; comment comprendre et suivre les mouvements proposés. Et pour ça, j'ai longtemps cru que le répertoire des chorégraphies rythmiques et des figures associé à chaque danse spécifique était le moyen pour y arriver, et que cette deuxième difficulté avait peu de rapport avec la première. J'ai donc longtemps délaissé l'importance de savoir danser, pour mieux me focaliser sur cette fameuse connexion.
 
 Depuis quelque temps, je me rends compte que je mettais la charrue avant les boeufs.  On m'avait appris à trouver la connexion par certaines approximations. Des approximations qui marchent, certes, dans la limite de leurs possibilités. Des approximations qui me réconfortaient dans ma conviction qu'apprendre à danser était non-seulement au delà de mes capacités, mais aussi superflu à mes besoins pour la danse de couple. Des approximations qui me faisaient prendre des mauvaises habitudes qui allaient être doublement un obstacle: rendant d'autant plus difficile d'apprendre à bien danser, et rendant difficile de retrouver comment danser à deux sans les béquilles utilisées jusqu'alors.
-
 
 J'ai maintenant appris et fait l'expérience qu'un corps qui sait danser, un corps connecté à lui-même et à la musique est bien plus en mesure de se connecter à un autre corps. Et la démarche pour se connecter à d'autres corps est une extension de la démarche pour se connecter à soi-même.
 
@@ -23,7 +22,7 @@ Dans ce post, j'aimerais explorer comment se focaliser sur la difficulté de Dan
 Avant de regarder de plus près les approximations de la connexion communément utilisées, écartons déjà certains des problèmes avec les termes "guider" et "suivre".
 
 - Ces termes peuvent induire en erreur, en donnant l'impression que la danse de couple implique qu'il y ait un rôle guideur·se et un rôle suiveur·se. (Je vois souvent des arguments contre certaines façon de danser à deux du type "oui, mais si ta connexion permet de danser à deux comme ça, il n'y a plus un·e suiveur·se et un·e guideur·se"). D'autres répartitions des responsabilités sont possibles, puisque dans certaines langues, ou certaines danses, on parle par exemple du rôle de l'homme et du rôle de la femme (termes autrement problématiques).
-- Ces termes induisent d'autant plus en erreur qu'un terme peut paraitre plutôt actif et qu'il faut apprendre (guider) et l'autre plutôt passif et qui va de soi (suivre). Lorsque le lion "suit" sa proie, il n'y a pas de rôle passif[2]. Dans le contexte genré de la danse de couple (et après avoir vu beaucoup de stages sur le "guidage" mais très peu sur le "suivage"), cette précision me semble importante.
+- Ces termes induisent d'autant plus en erreur qu'un terme peut paraitre plutôt actif et qu'il faut apprendre (guider) et l'autre plutôt passif et qui va de soi (suivre). Lorsque le lion "suit" sa proie, il n'y a pas de rôle passif[^2]. Dans le contexte genré de la danse de couple (et après avoir vu beaucoup de stages sur le "guidage" mais très peu sur le "suivage"), cette précision me semble importante.
 - D'autres métaphores existent aussi. Par exemple les notions d'initiateur/répondeur, de donneur/conservateur de mouvement, interviewer/interviewé, poseur de cadre/décorateur, choisisseur de sujet de conversation/partenaire de conversation.
 - En plus des différentes métaphores sur les rôles, le partage de ces rôles peut varier au cours d'une danse. Les rôles peuvent s'échanger, ou peuvent être partagés plus ou moins également par les deux danseurs.
 
@@ -52,7 +51,7 @@ En Blues, un peu comme en Tango, chaque pas, chaque déplacement, chaque mouveme
 
 Nous pouvons maintenant passer aux moyens physiques qui permettent de guider et suivre - que j'appelle ici, un peu par abus de langage, "connexion" - en décrivant différentes approximations, ainsi que la fameuse *connexion par l'intégrité du mouvement*, tout en présentant leurs avantages et inconvénients.
 
-### La connexion par le cadre
+### Connexion par le cadre
 
 Différentes danses ont des visions très différentes du rôle du cadre dans la connexion. Dans l'ensemble, le cadre est un maintien du haut du corps et des bras qui doit être "tenu" avec un certain tonus, et son rôle dans la connexion est de permettre la transmission du mouvement du "centre" (et ainsi des déplacements).
 
@@ -119,7 +118,7 @@ Nous avons vu différents types d'approximations de la connexion. Elles ont chac
 
 Lorsque le mouvement du corps est intègre et continu, toute l'organisation corporelle est affectée par chaque mouvement. Un mouvement de bras affecte la ceinture scapulaire, qui affecte la colonne vertébrale, qui affecte le bassin, qui affecte les jambes - et inversément. 
 
-En ayant entre nos mains les mains d'un·e partenaire au mouvement intègre, tout ce mouvement peut être perçu. Et les humains étant tous dotés de squelettes et biomécaniques relativement similaires, il est aisé de réagir avec un mouvement relativement similaire[3]. Guider devient alors effectuer clairement un mouvement. Suivre devient réagir à la biomécanique du mouvement guidé avec sa propre biomécanique.
+En ayant entre nos mains les mains d'un·e partenaire au mouvement intègre, tout ce mouvement peut être perçu. Et les humains étant tous dotés de squelettes et biomécaniques relativement similaires, il est aisé de réagir avec un mouvement relativement similaire[^3]. Guider devient alors effectuer clairement un mouvement. Suivre devient réagir à la biomécanique du mouvement guidé avec sa propre biomécanique.
 
 On peut ajouter des nuances à cette connexion. Par exemple, on peut isoler un mouvement pour qu'il ne soit pas perceptible. On peut créer un mouvement qui est perceptible mais qui ne propose pas directement l'autre à l'imiter. On peut même jouer avec les conséquences de la biomécanique en effectuant des mouvements qui proposent des réponses plutôt dissimilaires (par exemple, le swingout en Lindy Hop ou les ochos en Tango).
 
@@ -139,7 +138,7 @@ Inconvénients
 
 L'intégrité du mouvement implique la présence de trois avantages supplémentaires. Leur absence est d'ailleurs citée ci-dessus dans plusieurs des inconvénients des autres métaphores de la connexion.
 
-1. On danse avec moins de tonus. Danser avec une intégrité corporelle demande un tonus nécessaire et suffisant [4] qui est souvent inférieur à ce qu'on pense. Lorsqu'on danse avec trop de tonus, on bloque non seulement le mouvement, mais aussi sa lisibilité.
+1. On danse avec moins de tonus. Danser avec une intégrité corporelle demande un tonus nécessaire et suffisant[^4] qui est souvent inférieur à ce qu'on pense. Lorsqu'on danse avec trop de tonus, on bloque non seulement le mouvement, mais aussi sa lisibilité.
 2. On ne guide pas avec les bras (ou pas plus avec les bras que toute autre partie du corps). Comment espérer simuler avec le bras le mouvement d'un corps entier? Et pourquoi faire l'effort d'apprendre cette simulation quand il suffit de bouger le corps lui-même?
 3. Guider et suivre ne se fait pas par l'intermédiaire de signaux ou toute autre forme de représentation mentale. Nul besoin d'effectuer une traduction dans sa tête pour communiquer une intention, puisque la connexion devient une connexion physique, régie par la biomécanique du corps humain. (Ce qui n'empêche pas, pour travailler la connexion, de remarquer en temps réel certains aspects du mouvement de l'autre, notamment les mouvements de la colonne vertébrale et du bassin.)
 
@@ -171,7 +170,7 @@ Danser à deux c'est simple, mais difficile - compliquer la chose avec des appro
 
 *Si tu pense que cet article contient beaucoup de mots, tu seras ravi·e d'apprendre que je propose des cours particuliers.*
 
-[1] Par abus de langage (ou simplification), je restreins dans ce post le terme "connexion" au sens "moyen qui permet le partenariat en danse de couple (dont le "guidage/suivage") de se faire".
-[2] Il va de soi qu'il ne convient ni de penser ni de traiter ses partenaires de danse comme des proies.
-[3] Modulo le maintien des points de connexion, ce qui permettra de distinguer, par exemple, entre la proposition d'un mouvement parallèle et d'un mouvement symétrique des partenaires.
-[4] Lorsqu'on rencontre l'idée qu'on peut danser avec moins de tonus, on peut avoir tendance à partir à l'extrême inverse. Danser avec trop peu de tonus, ou ne faire que des mouvements qui nécessitent peu de tonus, c'est pas top non plus.
+[^1]: Par abus de langage (ou simplification), je restreins dans ce post le terme "connexion" au sens "moyen qui permet le partenariat en danse de couple (dont le "guidage/suivage") de se faire".
+[^2]: Il va de soi qu'il ne convient ni de penser ni de traiter ses partenaires de danse comme des proies.
+[^3]: Modulo le maintien des points de connexion, ce qui permettra de distinguer, par exemple, entre la proposition d'un mouvement parallèle et d'un mouvement symétrique des partenaires.
+[^4]: Lorsqu'on rencontre l'idée qu'on peut danser avec moins de tonus, on peut avoir tendance à partir à l'extrême inverse. Danser avec trop peu de tonus, ou ne faire que des mouvements qui nécessitent peu de tonus, c'est pas top non plus.
