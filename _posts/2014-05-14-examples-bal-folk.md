@@ -4,8 +4,8 @@ date: 2014-05-14
 title: "Trad examples for bal folk dancers"
 tags: dance, english, music, musique, danse, trad, bal folk
 ---
-<small>[Skip to the end of the long winded text for a bunch of great videos that exemplify some of the best of French traditional music and dance revival  
-Vous pouvez sauter le texte en anglais pour voir un résumé en français et un tas de super videos qui montrent des exemples du meilleur du revivalisme des musiques et danses traditionnelles de France]</small>
+<small>(Skip to the end of the long winded text for a bunch of great videos that exemplify some of the best of French traditional music and dance revival  
+Vous pouvez sauter le texte en anglais pour voir un résumé en français et un tas de super videos qui montrent des exemples du meilleur du revivalisme des musiques et danses traditionnelles de France)</small>
 
 The French bal folk scene is strange. To the outside observer there seems to be - like in many trad music communities - a conservative/pure drop contingent and a progressive/evolving tradition/jazz it up contingent. But it is actually more complicated, with a number of different esthetics and values being upheld by different participants in the scene. First there are questions of relationship to "the tradition": how much do musicians (or dancers) actually *know* about the tradition, to what extent are they able to embody what they know when playing (or dancing), and to what extent do they allow themselves to deviate (consciously or sub-consciously) from this tradition. Then there are the various purposes: keeping a culture alive, creating good music, enjoying the shared aspect of traditional music and dance. And on top of this will come the use of "outside influences" (which have probably always existed, but play a different role now): how to use harmony, percussion, ornamentation, timbre, different instruments, etc.
 
@@ -23,19 +23,15 @@ Because the "trad" communities are numerous and difficult to find out about (the
 
 ([This playlist](https://www.youtube.com/playlist?list=PL60EC40F34D597E99]) is similar, but from an astylistic perspective. Note that it includes many similar videos to those below.)
 
-<small>
 
-**Résumé français**  
+<small>**Résumé français**</small>
+<small>Il y a de nombreuses esthétiques en revivalisme des musiques et danses traditionnelles de France, suivant la connaissance stylistique des terroirs, la capacité et la volonté d'incarner ces styles, le désir de faire vivre une culture, faire danser des gens, créer un lieu communautaire, les aspects de la musique mis en avant, l'instrumentation, etc.</small>
 
-Il y a de nombreuses esthétiques en revivalisme des musiques et danses traditionnelles de France, suivant la connaissance stylistique des terroirs, la capacité et la volonté d'incarner ces styles, le désir de faire vivre une culture, faire danser des gens, créer un lieu communautaire, les aspects de la musique mis en avant, l'instrumentation, etc. 
+<small>A cause de la diversité et quantité des terroirs et de la tardivité des collectages, nous savons relativement peu sur ce qu'était "la tradition" - et ces informations sont parfois contradictoires et difficiles à obtenir. Cette non-connaissance (et difficulté d'avoir des connaissances sur tous les terroirs), combinée à un fort désir d'ouverture et d'anti-snobisme fait que beaucoup de danseurs et de musiciens ont une pratique avec peu de qualité stylistique et peu de qualité globale.</small>
 
-A cause de la diversité et quantité des terroirs et de la tardivité des collectages, nous savons relativement peu sur ce qu'était "la tradition" - et ces informations sont parfois contradictoires et difficiles à obtenir. Cette non-connaissance (et difficulté d'avoir des connaissances sur tous les terroirs), combinée à un fort désir d'ouverture et d'anti-snobisme fait que beaucoup de danseurs et de musiciens ont une pratique avec peu de qualité stylistique et peu de qualité globale.
+<small>Cela dit, il y a aussi d'excellents danseurs et musiciens (dans la qualité globale), avec plus ou moins d'ancrage stylistique dans leur pratique. Ceux qui s'expriment (ou essaient de s'exprimer) avec un accent lié à terroir sont dans un stéréotype d'esthétique souvent qualifié de "trad" - ceux qui mettent moins l'accent sur cet aspect (pour une grande diversité de raisons) sont dans un stéréotype d'esthétique souvent qualifié de "folk".</small>
 
-Cela dit, il y a aussi d'excellents danseurs et musiciens (dans la qualité globale), avec plus ou moins d'ancrage stylistique dans leur pratique. Ceux qui s'expriment (ou essaient de s'exprimer) avec un accent lié à terroir sont dans un stéréotype d'esthétique souvent qualifié de "trad" - ceux qui mettent moins l'accent sur cet aspect (pour une grande diversité de raisons) sont dans un stéréotype d'esthétique souvent qualifié de "folk". 
-
-Par défaut, les nouveaux arrivants dans le milieu du bal folk voient des groupes "progressifs" d'esthétique folk et ont moins connaissance de ce qui plait aux personnes s'identifiant plutôt à une esthétique trad. Ces vidéos sont des exemples, selon mon jugement personnel, du meilleur qui se fait en esthétique "trad", c'est à dire pratiqué par des musiciens ayant une culture du terroir et accepté par un grand nombre de pratiquants (et surtout par moi, puisque c'est ma liste) comme étant toujours stylistiquement ancré dans ce terroir. Pour chaque danse, j'essayé de poster une vidéo plus "austère" et une plus "progressive" - pour autant que ces termes aient un sens.
-
-</small>
+<small>Par défaut, les nouveaux arrivants dans le milieu du bal folk voient des groupes "progressifs" d'esthétique folk et ont moins connaissance de ce qui plait aux personnes s'identifiant plutôt à une esthétique trad. Ces vidéos sont des exemples, selon mon jugement personnel, du meilleur qui se fait en esthétique "trad", c'est à dire pratiqué par des musiciens ayant une culture du terroir et accepté par un grand nombre de pratiquants (et surtout par moi, puisque c'est ma liste) comme étant toujours stylistiquement ancré dans ce terroir. Pour chaque danse, j'essayé de poster une vidéo plus "austère" et une plus "progressive" - pour autant que ces termes aient un sens.</small>
 
 ### Britanny/Bretagne
 
@@ -128,12 +124,13 @@ And some nice dancing<iframe width="560" height="315" src="//www.youtube.com/emb
 
 [More nice dancing](https://www.youtube.com/playlist?list=PLvIx6HZc1JoFWNtfnbz_Ys95p3gs7WCaD)
 
-Roda of bourrées (not a traditional practice, but a great idea borrowed from various jam traditions such as Capoeira)<iframe width="560" height="315" src="//www.youtube.com/embed/kLCpX2wKqAA" frameborder="0" allowfullscreen></iframe>
+Roda of bourrées (not a traditional practice, but a great idea borrowed from various jam traditions such as Capoeira)
+<iframe width="560" height="315" src="//www.youtube.com/embed/kLCpX2wKqAA" frameborder="0" allowfullscreen></iframe>
 
 ### Poitou
 
 #### Maraichine
-Ciac Boum<iframe width="560" height="315" src="//www.youtube.com/embed/2dkGWs3LQA" frameborder="0" allowfullscreen></iframe>
+Ciac Boum <iframe width="560" height="315" src="//www.youtube.com/embed/2dkGWs3LQA" frameborder="0" allowfullscreen></iframe>
 
 #### Avant-Deux
 
