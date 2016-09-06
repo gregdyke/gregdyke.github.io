@@ -37,12 +37,17 @@ Because the "trad" communities are numerous and difficult to find out about (the
 ### Britanny/Bretagne
 
 (Many of these videos were posted by youtube user Avelenn, who has great taste and likes good music from the whole spectrum)
+
 #### Gavotte
+
 Annie Ebrel/Nolúen Le Buhé
 <iframe width="560" height="315" src="//www.youtube.com/embed/3BTCHgyoh_s" frameborder="0" allowfullscreen></iframe>
 
-Le Bour/Bodros<iframe width="560" height="315" src="//www.youtube.com/embed/TisCZ89GVT0" frameborder="0" allowfullscreen></iframe>
+Le Bour/Bodros
+<iframe width="560" height="315" src="//www.youtube.com/embed/TisCZ89GVT0" frameborder="0" allowfullscreen></iframe>
+
 #### Plinn
+
 (I really like Plinn and couldn't choose only 2)
 
 Guillou/Menneteau
