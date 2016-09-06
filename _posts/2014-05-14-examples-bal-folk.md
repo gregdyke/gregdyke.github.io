@@ -25,6 +25,7 @@ Because the "trad" communities are numerous and difficult to find out about (the
 
 
 <small>**Résumé français**</small>
+
 <small>Il y a de nombreuses esthétiques en revivalisme des musiques et danses traditionnelles de France, suivant la connaissance stylistique des terroirs, la capacité et la volonté d'incarner ces styles, le désir de faire vivre une culture, faire danser des gens, créer un lieu communautaire, les aspects de la musique mis en avant, l'instrumentation, etc.</small>
 
 <small>A cause de la diversité et quantité des terroirs et de la tardivité des collectages, nous savons relativement peu sur ce qu'était "la tradition" - et ces informations sont parfois contradictoires et difficiles à obtenir. Cette non-connaissance (et difficulté d'avoir des connaissances sur tous les terroirs), combinée à un fort désir d'ouverture et d'anti-snobisme fait que beaucoup de danseurs et de musiciens ont une pratique avec peu de qualité stylistique et peu de qualité globale.</small>
@@ -37,90 +38,117 @@ Because the "trad" communities are numerous and difficult to find out about (the
 
 (Many of these videos were posted by youtube user Avelenn, who has great taste and likes good music from the whole spectrum)
 #### Gavotte
-Annie Ebrel/Nolúen Le Buhé<iframe width="560" height="315" src="//www.youtube.com/embed/3BTCHgyoh_s" frameborder="0" allowfullscreen></iframe>
+Annie Ebrel/Nolúen Le Buhé
+<iframe width="560" height="315" src="//www.youtube.com/embed/3BTCHgyoh_s" frameborder="0" allowfullscreen></iframe>
 
 Le Bour/Bodros<iframe width="560" height="315" src="//www.youtube.com/embed/TisCZ89GVT0" frameborder="0" allowfullscreen></iframe>
 #### Plinn
 (I really like Plinn and couldn't choose only 2)
 
-Guillou/Menneteau<iframe width="560" height="315" src="//www.youtube.com/embed/GrEAss1_M3A" frameborder="0" allowfullscreen></iframe>
+Guillou/Menneteau
+<iframe width="560" height="315" src="//www.youtube.com/embed/GrEAss1_M3A" frameborder="0" allowfullscreen></iframe>
 
-Kan ha Diskan & Human Beatbox<iframe width="560" height="315" src="//www.youtube.com/embed/82sGSGsxyUw" frameborder="0" allowfullscreen></iframe>
+Kan ha Diskan & Human Beatbox
+<iframe width="560" height="315" src="//www.youtube.com/embed/82sGSGsxyUw" frameborder="0" allowfullscreen></iframe>
 
-Darhaou (bal & ton double)<iframe width="560" height="315" src="//www.youtube.com/embed/hnFjqIYtj_c" frameborder="0" allowfullscreen></iframe>
+Darhaou (bal & ton double)
+<iframe width="560" height="315" src="//www.youtube.com/embed/hnFjqIYtj_c" frameborder="0" allowfullscreen></iframe>
 
 [Spontus](http://vimeo.com/78528484)
 
 #### Kost Ar C'hoad
 
-Ebrel/Le Buhé<iframe width="560" height="315" src="//www.youtube.com/embed/P-HmNaDJCgs" frameborder="0" allowfullscreen></iframe>
+Ebrel/Le Buhé
+<iframe width="560" height="315" src="//www.youtube.com/embed/P-HmNaDJCgs" frameborder="0" allowfullscreen></iframe>
 
-Skolvan<iframe width="560" height="315" src="//www.youtube.com/embed/Pqg9UGEO3RQ" frameborder="0" allowfullscreen></iframe>
+Skolvan
+<iframe width="560" height="315" src="//www.youtube.com/embed/Pqg9UGEO3RQ" frameborder="0" allowfullscreen></iframe>
 
 #### Rond de Saint-Vincent
-David et Huguel<iframe width="560" height="315" src="//www.youtube.com/embed/HzNSRpatcf8" frameborder="0" allowfullscreen></iframe>
+David et Huguel
+<iframe width="560" height="315" src="//www.youtube.com/embed/HzNSRpatcf8" frameborder="0" allowfullscreen></iframe>
 
-Manglo (not particularly progressive)<iframe width="560" height="315" src="//www.youtube.com/embed/hUl5BY6KCAc" frameborder="0" allowfullscreen></iframe>
+Manglo (not particularly progressive)
+<iframe width="560" height="315" src="//www.youtube.com/embed/hUl5BY6KCAc" frameborder="0" allowfullscreen></iframe>
 
 #### Tour
 
-Tchikidi<iframe width="560" height="315" src="//www.youtube.com/embed/CTiAck5UXJQ" frameborder="0" allowfullscreen></iframe>
+Tchikidi
+<iframe width="560" height="315" src="//www.youtube.com/embed/CTiAck5UXJQ" frameborder="0" allowfullscreen></iframe>
 
-Alambig Elektrik Sextet<iframe width="560" height="315" src="//www.youtube.com/embed/jRQwyrdZQd8" frameborder="0" allowfullscreen></iframe>
+Alambig Elektrik Sextet
+<iframe width="560" height="315" src="//www.youtube.com/embed/jRQwyrdZQd8" frameborder="0" allowfullscreen></iframe>
 
 #### Andro
-Betzi-Raly/Gautier<iframe width="560" height="315" src="//www.youtube.com/embed/fryJGXMdDLE" frameborder="0" allowfullscreen></iframe>
+Betzi-Raly/Gautier
+<iframe width="560" height="315" src="//www.youtube.com/embed/fryJGXMdDLE" frameborder="0" allowfullscreen></iframe>
 
-Startijenn<iframe width="560" height="315" src="//www.youtube.com/embed/dIEzqHQymCM" frameborder="0" allowfullscreen></iframe>
+Startijenn
+<iframe width="560" height="315" src="//www.youtube.com/embed/dIEzqHQymCM" frameborder="0" allowfullscreen></iframe>
 
 #### Kazh a barh
 
-Wipidoup<iframe width="560" height="315" src="//www.youtube.com/embed/X3d3Zt1foLU" frameborder="0" allowfullscreen></iframe>
+Wipidoup
+<iframe width="560" height="315" src="//www.youtube.com/embed/X3d3Zt1foLU" frameborder="0" allowfullscreen></iframe>
 
-Moisson/Landat<iframe width="560" height="315" src="//www.youtube.com/embed/A9PjGStMLWc" frameborder="0" allowfullscreen></iframe>
+Moisson/Landat
+<iframe width="560" height="315" src="//www.youtube.com/embed/A9PjGStMLWc" frameborder="0" allowfullscreen></iframe>
 
 #### Hanter dro
 
-Teir<iframe width="560" height="315" src="//www.youtube.com/embed/nMRV3m37KXs" frameborder="0" allowfullscreen></iframe>
+Teir
+<iframe width="560" height="315" src="//www.youtube.com/embed/nMRV3m37KXs" frameborder="0" allowfullscreen></iframe>
 
-Les Traine Meuriennes (not particularly "progressive")<iframe width="560" height="315" src="//www.youtube.com/embed/2yHoU7aVNKw" frameborder="0" allowfullscreen></iframe>
+Les Traine Meuriennes (not particularly "progressive")
+<iframe width="560" height="315" src="//www.youtube.com/embed/2yHoU7aVNKw" frameborder="0" allowfullscreen></iframe>
 
 #### Ridée 6 temps
 
-Trimaud-Béliard<iframe width="560" height="315" src="//www.youtube.com/embed/abUyPxDfQic" frameborder="0" allowfullscreen></iframe>
+Trimaud-Béliard
+<iframe width="560" height="315" src="//www.youtube.com/embed/abUyPxDfQic" frameborder="0" allowfullscreen></iframe>
   
-Hamon Martin<iframe width="560" height="315" src="//www.youtube.com/embed/SSNSRDshiYo" frameborder="0" allowfullscreen></iframe>
+Hamon Martin
+<iframe width="560" height="315" src="//www.youtube.com/embed/SSNSRDshiYo" frameborder="0" allowfullscreen></iframe>
 
 #### Laridé 8 temps
 
-Le Bot/Chevrolier<iframe width="560" height="315" src="//www.youtube.com/embed/IBzjCLXd-9g" frameborder="0" allowfullscreen></iframe>
+Le Bot/Chevrolier
+<iframe width="560" height="315" src="//www.youtube.com/embed/IBzjCLXd-9g" frameborder="0" allowfullscreen></iframe>
 
-BivOAc<iframe width="560" height="315" src="//www.youtube.com/embed/Vo7c0toeuVA" frameborder="0" allowfullscreen></iframe>
+BivOAc
+<iframe width="560" height="315" src="//www.youtube.com/embed/Vo7c0toeuVA" frameborder="0" allowfullscreen></iframe>
 
 #### Laridé-Gavotte
 
-Kejaj<iframe width="560" height="315" src="//www.youtube.com/embed/9GCdIS1qsj4" frameborder="0" allowfullscreen></iframe>
+Kejaj
+<iframe width="560" height="315" src="//www.youtube.com/embed/9GCdIS1qsj4" frameborder="0" allowfullscreen></iframe>
 
 #### Gavotte de l'Aven
 
-Moisson/Syz<iframe width="560" height="315" src="//www.youtube.com/embed/eTDZCWxNoLg" frameborder="0" allowfullscreen></iframe>
+Moisson/Syz
+<iframe width="560" height="315" src="//www.youtube.com/embed/eTDZCWxNoLg" frameborder="0" allowfullscreen></iframe>
+
 #### Avant-Deux
 (from the Gallo part of Britanny)
 
 [Rajalu/Bouthillier](https://www.facebook.com/photo.php?v=504387549623183)
 
-Esquisse<iframe width="560" height="315" src="//www.youtube.com/embed/_LoJ6QeK8Q4" frameborder="0" allowfullscreen></iframe>
+Esquisse
+<iframe width="560" height="315" src="//www.youtube.com/embed/_LoJ6QeK8Q4" frameborder="0" allowfullscreen></iframe>
 
 ### Auvergne
   
 #### Bourrée 3 temps
 (Auvergne/Limousin)
 
-Delaunay/Champeval/Brémaud<iframe width="560" height="315" src="//www.youtube.com/embed/2oPQUgwkpZU" frameborder="0" allowfullscreen></iframe>
+Delaunay/Champeval/Brémaud
+<iframe width="560" height="315" src="//www.youtube.com/embed/2oPQUgwkpZU" frameborder="0" allowfullscreen></iframe>
 
-Komred<iframe width="560" height="315" src="//www.youtube.com/embed/_9syk8BEicw" frameborder="0" allowfullscreen></iframe>
+Komred
+<iframe width="560" height="315" src="//www.youtube.com/embed/_9syk8BEicw" frameborder="0" allowfullscreen></iframe>
 
-And some nice dancing<iframe width="560" height="315" src="//www.youtube.com/embed/ex1IJkgSFPc" frameborder="0" allowfullscreen></iframe>
+And some nice dancing
+<iframe width="560" height="315" src="//www.youtube.com/embed/ex1IJkgSFPc" frameborder="0" allowfullscreen></iframe>
 
 [More nice dancing](https://www.youtube.com/playlist?list=PLvIx6HZc1JoFWNtfnbz_Ys95p3gs7WCaD)
 
@@ -130,7 +158,8 @@ Roda of bourrées (not a traditional practice, but a great idea borrowed from va
 ### Poitou
 
 #### Maraichine
-Ciac Boum <iframe width="560" height="315" src="//www.youtube.com/embed/2dkGWs3LQA" frameborder="0" allowfullscreen></iframe>
+Ciac Boum 
+<iframe width="560" height="315" src="//www.youtube.com/embed/2dkGWs3LQA" frameborder="0" allowfullscreen></iframe>
 
 #### Avant-Deux
 
@@ -139,34 +168,57 @@ Ciac Boum <iframe width="560" height="315" src="//www.youtube.com/embed/2dkGWs3L
 ### Berry/Bourbonnais
 
 #### Bourrée 2 temps
-Bougnat Sound<iframe width="560" height="315" src="//www.youtube.com/embed/oDuL73O5D60" frameborder="0" allowfullscreen></iframe>
+Bougnat Sound
+<iframe width="560" height="315" src="//www.youtube.com/embed/oDuL73O5D60" frameborder="0" allowfullscreen></iframe>
 
 ### Sud-Ouest/Gascony
   
 #### Branle Béarnais/Branle d'Ossau
-Dani Detammaecker <iframe width="560" height="315" src="//www.youtube.com/embed/9Iu2nnpiyWw" frameborder="0" allowfullscreen></iframe>
+Dani Detammaecker 
+<iframe width="560" height="315" src="//www.youtube.com/embed/9Iu2nnpiyWw" frameborder="0" allowfullscreen></iframe>
 
-Ad'arrOn <iframe width="560" height="315" src="//www.youtube.com/embed/dJtjG67_hgg" frameborder="0" allowfullscreen></iframe>
+Ad'arrOn 
+<iframe width="560" height="315" src="//www.youtube.com/embed/dJtjG67_hgg" frameborder="0" allowfullscreen></iframe>
 #### Rondeau
 
-Dani Detammaecker <iframe width="560" height="315" src="//www.youtube.com/embed/3f7SvYrX3sg" frameborder="0" allowfullscreen></iframe>
+Dani Detammaecker 
+<iframe width="560" height="315" src="//www.youtube.com/embed/3f7SvYrX3sg" frameborder="0" allowfullscreen></iframe>
 
-Faburden <iframe width="560" height="315" src="//www.youtube.com/embed/JloIdUz6Suk" frameborder="0" allowfullscreen></iframe>
+Faburden 
+<iframe width="560" height="315" src="//www.youtube.com/embed/JloIdUz6Suk" frameborder="0" allowfullscreen></iframe>
 
-Corbefin/Marsac(Rondeau de Samatan) <iframe width="560" height="315" src="//www.youtube.com/embed/tat4_N_lge0" frameborder="0" allowfullscreen></iframe>
+Corbefin/Marsac(Rondeau de Samatan) 
+<iframe width="560" height="315" src="//www.youtube.com/embed/tat4_N_lge0" frameborder="0" allowfullscreen></iframe>
 
-Feiz Noz Moc'h (no dancing) <iframe width="560" height="315" src="//www.youtube.com/embed/4YL18VBKVEM" frameborder="0" allowfullscreen></iframe>
+Feiz Noz Moc'h (no dancing) 
+<iframe width="560" height="315" src="//www.youtube.com/embed/4YL18VBKVEM" frameborder="0" allowfullscreen></iframe>
+
 #### Ronde du Quercy
-Brotto/Lopez <iframe width="560" height="315" src="//www.youtube.com/embed/g8ITsaDSl_w" frameborder="0" allowfullscreen></iframe>
-#### Demos of various dances from Gascony (unchoreographed) <iframe width="560" height="315" src="//www.youtube.com/embed/SaLltk2BpLo" frameborder="0" allowfullscreen></iframe>
+
+Brotto/Lopez 
+<iframe width="560" height="315" src="//www.youtube.com/embed/g8ITsaDSl_w" frameborder="0" allowfullscreen></iframe>
+
+#### Demos of various dances from Gascony (unchoreographed) 
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SaLltk2BpLo" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/B0z7hl4fbUM" frameborder="0" allowfullscreen></iframe>
 
 ### Couples dances
+
 Couples dances are from all over and tend to allow a great degree of liberty in their interpretation, making the boundary between "trad" and "not trad" even more elusive. Here are a few nice examples.
+
 #### Polka
-Julien Cartonnet & co (Tania Buisse, Colin Delzant, Antoine Cognet) (dancing is very folk-y) <iframe width="560" height="315" src="//www.youtube.com/embed/oBJ_Xjufrmc" frameborder="0" allowfullscreen></iframe>
+
+Julien Cartonnet & co (Tania Buisse, Colin Delzant, Antoine Cognet) (dancing is very folk-y) 
+<iframe width="560" height="315" src="//www.youtube.com/embed/oBJ_Xjufrmc" frameborder="0" allowfullscreen></iframe>
+
 #### Scottish
-Mister Klof <iframe width="560" height="315" src="//www.youtube.com/embed/i5Sls_Tl5Fs" frameborder="0" allowfullscreen></iframe>
+
+Mister Klof 
+<iframe width="560" height="315" src="//www.youtube.com/embed/i5Sls_Tl5Fs" frameborder="0" allowfullscreen></iframe>
+
 #### Mazurka
-Landat/Moisson <iframe width="560" height="315" src="//www.youtube.com/embed/H10IZZX2xek" frameborder="0" allowfullscreen></iframe>
+
+Landat/Moisson 
+<iframe width="560" height="315" src="//www.youtube.com/embed/H10IZZX2xek" frameborder="0" allowfullscreen></iframe>
