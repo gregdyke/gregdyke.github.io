@@ -121,7 +121,7 @@ Loopy.SampleUi.Paperjs.prototype.init = function(sampleUi) {
   divDom.setAttribute("style", "display:inline-block");
   divDom.appendChild(titleDom);
   divDom.appendChild(canvasDom);
-  document.body.appendChild(divDom);
+  sampleUi.sample.parentLoop.$root.appendChild(divDom);
   
   this.p.setup(canvasDom);
   this.createNeedle();
@@ -294,19 +294,25 @@ Loopy.prototype.startAll = function() {
 Loopy.prototype.initMultiSampleControls = function() {
   var self = this;
   
-  var playAll = document.createElement("BUTTON");
-  playAll.appendChild(document.createTextNode("Play All"));
-  this.$root.appendChild(playAll);
-  playAll.addEventListener("click", function() {
+  var $controls = document.createElement("div");
+  
+  var $playAll = document.createElement("BUTTON");
+  $playAll.appendChild(document.createTextNode("Play All"));
+  $controls.appendChild($playAll);
+  $playAll.addEventListener("click", function() {
     self.startAll();
   });
   
-  var stopAll = document.createElement("BUTTON");
-  stopAll.appendChild(document.createTextNode("Stop All"));
-  this.$root.appendChild(stopAll);
-  stopAll.addEventListener("click", function() {
+  var $stopAll = document.createElement("BUTTON");
+  $stopAll.appendChild(document.createTextNode("Stop All"));
+  $controls.appendChild($stopAll);
+  $stopAll.addEventListener("click", function() {
     self.stopAll();
   });
+  
+  this.$root.insertBefore($controls, this.$root.firstChild);
+  
+
 };
 
 Loopy.Sample = function(name, url, rhythmpattern, audio, parentLoop) {

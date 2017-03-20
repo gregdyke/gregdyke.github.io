@@ -45,6 +45,6 @@ Ce dernier en particulier me semble inquiétant. On rigole on rigole et à la fi
 
 Et en attendant le bal utopique où tout le monde applique cette règle, il y aura des gens qui sexualisent (consensuellement ou non) la danse. 
 
-Du coup, si j'ai l'habitude de ne pas ressentir d'attraction sexuelle pendant la danse et qu'un jour je fais l'expérience d'une attraction sexuelle mutuelle, je fais quoi ? Je culpabilise parce que ça devrait pas arriver ? Je m'imagine qu'on m'avait toujours dit que ça avait pas sa place, donc je dois me trouver dans une situation exceptionnelle et c'est peut-être l'amour de ma vie.
+Du coup, si j'ai l'habitude de ne pas ressentir d'attraction sexuelle pendant la danse et qu'un jour je fais l'expérience d'une attraction sexuelle mutuelle, je fais quoi ? Je culpabilise parce que ça devrait pas arriver ? Je m'imagine qu'on m'avait toujours dit que ça avait pas sa place, donc je dois me trouver dans une situation exceptionnelle et c'est peut-être l'amour de ma vie ?
 
-Si j'ai l'habitude de ne pas avoir à exprimer mes limites parce qu'il y a une règle qui les exprime déjà plus ou moins à ma place
+A l'inverse, une telle règle peut me donner une fausse impression de sécurité [^1] si j'ai l'habitude de ne pas avoir à exprimer mes limites parce qu'il y a une règle qui me donne une fausse impression de sécurité il y a un risque que j'en oublie de me fier à mes propres impressions et que je sois moins à même de poser mes propres limites
