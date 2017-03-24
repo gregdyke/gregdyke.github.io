@@ -5,15 +5,7 @@ title: Blues Music Styles
 tags: dance, blues, english
 ---
 
-<div class="loopy">
-  <span class="sample" data-title="2 beats" data-pattern="11" data-src="https://cdn.hyperdev.com/244e1b8f-f3f2-4659-be59-d16c3a65dde4%2F2-beats.wav"></span>
-  <span class="sample" data-title="2 ternary beats" data-pattern="122122" data-src="https://cdn.hyperdev.com/244e1b8f-f3f2-4659-be59-d16c3a65dde4%2F2-ternary-beats.wav"></span>
-</div>
-<div class="loopy">
-  <span class="sample" data-title="Goin' Down Slow (Blues)" data-pattern="122122122122" data-src="https://cdn.hyperdev.com/244e1b8f-f3f2-4659-be59-d16c3a65dde4%2FGoin'%20Down%20Slow.wav"></span>
-</div>
-
-As a dancer of blues as a partner dance, trying to understand blues music can be challenging. The variety is huge and the set of music that gets DJ'd (or played by live bands) is not always representative of this variety.
+As a novice blues dancer, trying to understand blues music can be challenging. The variety is huge and the set of music that gets DJ'd (or played by live bands) is not always representative of this variety.
 
 The way blues music is often described and categorised has rarely seemed directly relevant to me as a dancer. If you take the [All Music Guide to Blues](http://www.allmusic.com/genre/blues-ma0000002467), for example, various subgenres of blues are described by period, history, geographical area and instrumentation. If you take the different blues idiom dances, many of them are also attached to a period and geographical area, and to specific types of music. But we tend to mix the various blues idiom dances together, leaving this link between dance and music slightly unhelpful.
 
@@ -30,22 +22,22 @@ This is a summary of the simplest version that I have been able to make sense *a
 Many musics can be thought of as having a regular beat. And some number of beats (often 3 or 4) group together into a bar, which are often grouped together further into 2s, 4s, 8s or 12s (or any other group), to form phrases. We often count these beats with numbers: 1 2 3 4.
 
 <div class="loopy">
-  <span class="sample" data-title="Four equal beats" data-pattern="1111" data-src="/media/blues-music-styles/1234.wav"></span>
+  <span class="sample" data-title="Four equal beats" data-pattern="1111" data-src="/media/blues-music-styles/4count.wav"></span>
 </div>
 
 Beats tend to be subdivided more "organically", particularly in dance musics. Sometimes the subdivisions are perfectly regular: 1& 2& 3& 4& describes four *binary* beats; 1&a 2&a 3&a 4&a describes four *ternary* beats [^2].
 
 <div class="loopy">
-  <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/1&2&3&4&.wav"></span>
+  <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/4binarycount.wav"></span>
 </div>
 <div class="loopy">
-  <span class="sample" data-title="Four ternary beats" data-pattern="122122122122" data-src="/media/blues-music-styles/1ea2ea3ea4ea.wav"></span>
+  <span class="sample" data-title="Four ternary beats" data-pattern="122122122122" data-src="/media/blues-music-styles/4ternarycount.wav"></span>
 </div>
 
 The ternary beat is often expressed without the &: a1 a2 a3 a4. And the subdivisions of a beat are more fluid in their timing than the beats. They can be somewhere between binary and ternary, or in some music styles vary in amount within a tune. [^3]
 
 <div class="loopy">
-  <span class="sample" data-title="Four ternary (swung/shuffle) beats" data-pattern="102102102102" data-src="/media/blues-music-styles/1a2a3a4.wav"></span>
+  <span class="sample" data-title="Four ternary (swung/shuffle) beats" data-pattern="102102102102" data-src="/media/blues-music-styles/4shufflecount.wav"></span>
 </div>
 
 In this simple classification of blues, most blues will be either ternary or binary. Apart from instinctively feeling the difference with your body, if you can count 1&2&3&4 it's binary, and if it's a1&a2&a3&a4& or a1a2a3a4 it's ternary. 
@@ -61,17 +53,19 @@ These five terms (latin, country blues, slow blues, shuffle, and jazz blues) are
 One of the most common blues rhythms is shuffle (and related rhythms such as swing blues, jump blues and boogie) This has a ternary beats where only 2 subdivisions are strongly marked by the rhythm section (a1 a2 a3 a4) and tends to have the feel of a strong "long" one, and a hit "short" on two.
 
 <div class="loopy">
-  <span class="sample" data-title="Eight beats of shuffle" data-pattern="11111111" data-src="/media/blues-music-styles/shuffle-8-rain.wav"></span>
-  <span class="sample" data-title="Four shuffle beats" data-pattern="102102102102" data-src="/media/blues-music-styles/1a2a3a4.wav"></span>
-  <span class="sample" data-title="Characteristic boum ka of shuffle" data-pattern="1212" data-src="/media/blues-music-styles/Boumkaboumka.wav"></span>
+  <span class="sample" data-title="Eight beats of shuffle" data-pattern="11111111" data-src="/media/blues-music-styles/rain-extract-shuffle.wav"></span>
+  <span class="sample" data-title="Four shuffle beats" data-pattern="102102102102" data-src="/media/blues-music-styles/4shufflecount.wav"></span>
+  <span class="sample" data-title="Characteristic boum ka of shuffle" data-pattern="1212" data-src="/media/blues-music-styles/Boumka.wav"></span>
 </div>
 
-On these kinds of songs, some of the typical dance rhythms are tchoo-tchoo shuffle (a forward and backward pendulum with a forward coming every 2 beats, and feet marking a1 a2 a3 a4) and sailor shuffle (a side to side swing/pendulum forward on 1, with the hit on 2 going into a backward pendulum with a ball change: a1 2 a3 4 = change-step ball change-step ball).
+On these kinds of songs, some of the typical dance rhythms are a plain step touch (and variations on step touch, such as fishtail), tchoo-tchoo shuffle (a forward and backward pendulum with a forward coming every 2 beats and a step-step pattern on each shuffle beat) and sailor shuffle (a side to side swing/pendulum forward on 1, with the hit on 2 going into a backward pendulum with a ball change: a1 2 a3 4 = change-step ball change-step ball).
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of shuffle" data-pattern="11111111" data-src="/media/blues-music-styles/shuffle-8-rain.wav"></span>
-  <span class="sample" data-title="Sailor shuffle counts" data-pattern="102102102102" data-src="/media/blues-music-styles/Sailorshufflecounts.wav"></span>
-  <span class="sample" data-title="Sailor shuffle steps" data-pattern="1212" data-src="/media/blues-music-styles/Sailorshufflesteps.wav"></span>
+  <span class="sample" data-title="Sailor shuffle steps" data-pattern="1212" data-src="/media/blues-music-styles/Steptouch.wav"></span>
+  <span class="sample" data-title="Sailor shuffle counts" data-pattern="100102100102" data-src="/media/blues-music-styles/Sailorshufflecount.wav"></span>
+  <span class="sample" data-title="Sailor shuffle steps" data-pattern="100102100102" data-src="/media/blues-music-styles/Sailorshufflesteps.wav"></span>
+  <span class="sample" data-title="Tchoo tchoo shuffle" data-pattern="102102102102" data-src="/media/blues-music-styles/Tchootchooshuffle.wav"></span>
 </div>
 
 ## Jazz Blues
