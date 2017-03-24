@@ -72,11 +72,14 @@ On these kinds of songs, some of the typical dance rhythms are a plain step touc
 
 A lot of music of the swing era (and thereabouts) is has characteristics of both jazz and blues. Jazz blues tends to be rather slow for swing dancing and have the same "a1 a2 a3 a4" as shuffle, but with the steady chug chug chug chug of swing music (or an equally steady boum tchick boum tchick of earlier jazz). The instrumentation also tends to be more swing-like, with a lot of melody in the horns.
 
-https://www.youtube.com/watch?v=zwsphwkvp7o
+From a dance perspective such musics can often be danced with an alternation of steps (or quicks), step touches, and slows (same tempo as a step touch, but without marking the touch), and with a lot of travelling, making relatively little use of the ternary subdivision for the rhythms in the feet.
 
-https://www.youtube.com/watch?v=duJlOOJlV6U
-
-From a dance perspective such musics can often be danced with an alternation of slows and quick quicks, and with a lot of travelling, making relatively little use of the ternary subdivision for the rhythms in the feet.
+<div class="loopy">
+  <span class="sample" data-title="Eight beats of jazz blues" data-pattern="11111111" data-src="/media/blues-music-styles/darknessonthedelta-extract-slowjazz.wav"></span>
+  <span class="sample" data-title="Step touch" data-pattern="1212" data-src="/media/blues-music-styles/Steptouch.wav"></span>
+  <span class="sample" data-title="Slows" data-pattern="1010" data-src="/media/blues-music-styles/2slows.wav"></span>
+  <span class="sample" data-title="Quicks" data-pattern="1111" data-src="/media/blues-music-styles/4quicks.wav"></span>
+</div>
 
 ## Slow Blues
 
