@@ -62,7 +62,7 @@ On these kinds of songs, some of the typical dance rhythms are a plain step touc
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of shuffle" data-pattern="11111111" data-src="/media/blues-music-styles/rain-extract-shuffle.wav"></span>
-  <span class="sample" data-title="Sailor shuffle steps" data-pattern="1212" data-src="/media/blues-music-styles/Steptouch.wav"></span>
+  <span class="sample" data-title="Step touch" data-pattern="1212" data-src="/media/blues-music-styles/Steptouch.wav"></span>
   <span class="sample" data-title="Sailor shuffle counts" data-pattern="100102100102" data-src="/media/blues-music-styles/Sailorshufflecount.wav"></span>
   <span class="sample" data-title="Sailor shuffle steps" data-pattern="100102100102" data-src="/media/blues-music-styles/Sailorshufflesteps.wav"></span>
   <span class="sample" data-title="Tchoo tchoo shuffle" data-pattern="102102102102" data-src="/media/blues-music-styles/Tchootchooshuffle.wav"></span>
