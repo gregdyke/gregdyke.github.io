@@ -5,6 +5,7 @@ function Loopy($root) {
 }
 
 Loopy.loopies = [];
+Loopy.context = new ( window.AudioContext || window.webkitAudioContext)();
 
 Loopy.oldonload = window.onload;
 
@@ -198,7 +199,7 @@ Loopy.SampleUi.Paperjs.prototype.clear = function() {
 };
 
 Loopy.Audio = function() {
-    this.context = new ( window.AudioContext || window.webkitAudioContext)();
+    this.context = Loopy.context;
     this.buffers = {};
     this.samples = {};
     this.playingLoops = {};
