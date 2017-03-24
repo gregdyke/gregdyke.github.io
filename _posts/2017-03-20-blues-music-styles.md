@@ -45,7 +45,7 @@ Beats tend to be subdivided more "organically", particularly in dance musics. So
 The ternary beat is often expressed without the &: a1 a2 a3 a4. And the subdivisions of a beat are more fluid in their timing than the beats. They can be somewhere between binary and ternary, or in some music styles vary in amount within a tune. [^3]
 
 <div class="loopy">
-  <span class="sample" data-title="Four ternary (swung/shuffle) beats" data-pattern="102102102102" data-src="/media/blues-music-styles/1a2a3a4a.wav"></span>
+  <span class="sample" data-title="Four ternary (swung/shuffle) beats" data-pattern="102102102102" data-src="/media/blues-music-styles/1a2a3a4.wav"></span>
 </div>
 
 In this simple classification of blues, most blues will be either ternary or binary. Apart from instinctively feeling the difference with your body, if you can count 1&2&3&4 it's binary, and if it's a1&a2&a3&a4& or a1a2a3a4 it's ternary. 
@@ -62,7 +62,7 @@ One of the most common blues rhythms is shuffle (and related rhythms such as swi
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of shuffle" data-pattern="11111111" data-src="/media/blues-music-styles/shuffle-8-rain.wav"></span>
-  <span class="sample" data-title="Four shuffle beats" data-pattern="102102102102" data-src="/media/blues-music-styles/1a2a3a4a.wav"></span>
+  <span class="sample" data-title="Four shuffle beats" data-pattern="102102102102" data-src="/media/blues-music-styles/1a2a3a4.wav"></span>
   <span class="sample" data-title="Characteristic boum ka of shuffle" data-pattern="1212" data-src="/media/blues-music-styles/Boumkaboumka.wav"></span>
 </div>
 
