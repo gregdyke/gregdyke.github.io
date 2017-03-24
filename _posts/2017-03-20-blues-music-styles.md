@@ -61,7 +61,7 @@ One of the most common blues rhythms is shuffle (and related rhythms such as swi
 On these kinds of songs, some of the typical dance rhythms are a plain step touch (and variations on step touch, such as fishtail), tchoo-tchoo shuffle (a forward and backward pendulum with a forward coming every 2 beats and a step-step pattern on each shuffle beat) and sailor shuffle (a side to side swing/pendulum forward on 1, with the hit on 2 going into a backward pendulum with a ball change: a1 2 a3 4 = change-step ball change-step ball).
 
 <div class="loopy">
-  <span class="sample" data-title="Eight beats of shuffle" data-pattern="11111111" data-src="/media/blues-music-styles/shuffle-8-rain.wav"></span>
+  <span class="sample" data-title="Eight beats of shuffle" data-pattern="11111111" data-src="/media/blues-music-styles/rain-extract-shuffle.wav"></span>
   <span class="sample" data-title="Sailor shuffle steps" data-pattern="1212" data-src="/media/blues-music-styles/Steptouch.wav"></span>
   <span class="sample" data-title="Sailor shuffle counts" data-pattern="100102100102" data-src="/media/blues-music-styles/Sailorshufflecount.wav"></span>
   <span class="sample" data-title="Sailor shuffle steps" data-pattern="100102100102" data-src="/media/blues-music-styles/Sailorshufflesteps.wav"></span>
