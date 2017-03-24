@@ -110,9 +110,9 @@ Loopy.SampleUi.Paperjs = function(w, h) {
 
 Loopy.SampleUi.Paperjs.prototype.init = function(sampleUi) {
 
-  var titleDom = document.createElement("h3");
+  var titleDom = document.createElement("div");
   titleDom.textContent = sampleUi.sample.name;
-  titleDom.setAttribute("style", "text-align:center; margin-bottom:0");
+  titleDom.setAttribute("style", "text-align:center; margin-bottom:0; font-weight:bold");
   
   var canvasDom = document.createElement("canvas");
   canvasDom.setAttribute("width", this.w);
