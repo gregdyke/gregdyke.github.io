@@ -72,6 +72,12 @@ On these kinds of songs, some of the typical dance rhythms are a plain step touc
 
 A lot of music of the swing era (and thereabouts) is has characteristics of both jazz and blues. Jazz blues tends to be rather slow for swing dancing and have the same "a1 a2 a3 a4" as shuffle, but with the steady chug chug chug chug of swing music (or an equally steady boum tchick boum tchick of earlier jazz). The instrumentation also tends to be more swing-like, with a lot of melody in the horns.
 
+<div class="loopy">
+  <span class="sample" data-title="Eight beats of jazz blues" data-pattern="11111111" data-src="/media/blues-music-styles/darknessonthedelta-extract-slowjazz.wav"></span>
+  <span class="sample" data-title="Four beats" data-pattern="1111" data-src="/media/blues-music-styles/4counts.wav"></span>
+  <span class="sample" data-title="Four ternary beats" data-pattern="102102102102" data-src="/media/blues-music-styles/4shufflecounts.wav"></span>
+</div>
+
 From a dance perspective such musics can often be danced with an alternation of steps (or quicks), step touches, and slows (same tempo as a step touch, but without marking the touch), and with a lot of travelling, making relatively little use of the ternary subdivision for the rhythms in the feet.
 
 <div class="loopy">
@@ -85,11 +91,20 @@ From a dance perspective such musics can often be danced with an alternation of 
 
 Last of the ternary we have slow blues. Often, all the ternary subdivisions are present, typically in the percussion. There is also some continuity between slow shuffle and slow blues, as there gets a point where the a1 a2 gets too slow for dancing shuffle and moves into slow drag. Depending on how the ternary beat is marked, there is also a relationship to waltzes.
 
+<div class="loopy">
+  <span class="sample" data-title="Eight beats of slow blues" data-pattern="11111111" data-src="/media/blues-music-styles/pleasemrjailer-extract-slowblues.wav"></span>
+  <span class="sample" data-title="Four ternary beats" data-pattern="122122122122" data-src="/media/blues-music-styles/4ternarycounts.wav"></span>
+  <span class="sample" data-title="Characteristic slow blues rhythm" data-pattern="122122122122" data-src="/media/blues-music-styles/Boumkaternary.wav"></span>
+</div>
+
 Sticking to step touches and the occasional travelling steps works well with these musics, especially enjoying the subdivision rhythm of the beat with the rib cage or, more rarely, with waltz steps.
 
-https://www.youtube.com/watch?v=ohFqVw4oeM0
+<div class="loopy">
+  <span class="sample" data-title="Eight beats of slow blues" data-pattern="11111111" data-src="/media/blues-music-styles/pleasemrjailer-extract-slowblues.wav"></span>
+  <span class="sample" data-title="Step touch" data-pattern="1212" data-src="/media/blues-music-styles/Steptouch.wav"></span>
+</div>
 
-https://www.youtube.com/watch?v=lRPcxbagJ-U
+To make my job easier in recording for this post, I chose a particularly fast slow blues extract, that I sped up slightly, so that it would be at the same tempo as the shuffle extract (which is quite slow for a shuffle) and the jazz blues extract (which is also fairly slow).
 
 ## Latin blues
 
