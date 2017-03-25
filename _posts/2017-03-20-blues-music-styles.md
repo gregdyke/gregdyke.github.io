@@ -108,18 +108,18 @@ To make my job easier in recording for this post, I chose a particularly fast sl
 
 ## Latin blues
 
-For those musics that are binary, a large variety of them are of different latin rhythms, going from rumba to the funy sound of boogaloo.
+For those musics that are binary, a large variety of them are of different latin rhythms, going from rumba to the funky sound of boogaloo.
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of latin blues" data-pattern="11111111" data-src="/media/blues-music-styles/bornunderabadsign-extract-latin.wav"></span>
-  <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/4ternarycount.wav"></span>
+  <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/4binarycount.wav"></span>
 </div>
 
 Various mixtures of slows and quick quicks work well. I particularly like the characteristic rumba rhythm of slow, quick quick or 1 - 3 4, with the pendulum swinging forward on every step (while the difference between binary and ternary doesn't matter if we're only stepping on slows and quick quicks, the pulse or pendulum is affected - and aside from stepping on beat subdivisions is one of the more interesting differences in dancing to binary vs ternary beats). In the example below, the "and" marks the back swing, and the slows and quicks mark the forward swing as well as the steps.
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of latin blues" data-pattern="11111111" data-src="/media/blues-music-styles/bornunderabadsign-extract-latin.wav"></span>
-  <span class="sample" data-title="Rumba steps" data-pattern="10021212" data-src="/media/blues-music-styles/Rumbasteps.wav"></span>
+  <span class="sample" data-title="Rumba steps" data-pattern="10032323" data-src="/media/blues-music-styles/Rumbasteps.wav"></span>
 </div>
 
 ## Country blues
