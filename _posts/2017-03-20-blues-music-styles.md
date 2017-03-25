@@ -74,8 +74,8 @@ A lot of music of the swing era (and thereabouts) is has characteristics of both
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of jazz blues" data-pattern="11111111" data-src="/media/blues-music-styles/darknessonthedelta-extract-slowjazz.wav"></span>
-  <span class="sample" data-title="Four beats" data-pattern="1111" data-src="/media/blues-music-styles/4counts.wav"></span>
-  <span class="sample" data-title="Four ternary beats" data-pattern="102102102102" data-src="/media/blues-music-styles/4shufflecounts.wav"></span>
+  <span class="sample" data-title="Four beats" data-pattern="1111" data-src="/media/blues-music-styles/4count.wav"></span>
+  <span class="sample" data-title="Four ternary beats" data-pattern="102102102102" data-src="/media/blues-music-styles/4shufflecount.wav"></span>
 </div>
 
 From a dance perspective such musics can often be danced with an alternation of steps (or quicks), step touches, and slows (same tempo as a step touch, but without marking the touch), and with a lot of travelling, making relatively little use of the ternary subdivision for the rhythms in the feet.
@@ -93,8 +93,8 @@ Last of the ternary we have slow blues. Often, all the ternary subdivisions are 
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of slow blues" data-pattern="11111111" data-src="/media/blues-music-styles/pleasemrjailer-extract-slowblues.wav"></span>
-  <span class="sample" data-title="Four ternary beats" data-pattern="122122122122" data-src="/media/blues-music-styles/4ternarycounts.wav"></span>
-  <span class="sample" data-title="Characteristic slow blues rhythm" data-pattern="122122122122" data-src="/media/blues-music-styles/Boumkaternary.wav"></span>
+  <span class="sample" data-title="Four ternary beats" data-pattern="122122122122" data-src="/media/blues-music-styles/4ternarycount.wav"></span>
+  <span class="sample" data-title="Characteristic slow blues rhythm" data-pattern="133233133233" data-src="/media/blues-music-styles/Boumkaternary.wav"></span>
 </div>
 
 Sticking to step touches and the occasional travelling steps works well with these musics, especially enjoying the subdivision rhythm of the beat with the rib cage or, more rarely, with waltz steps.
