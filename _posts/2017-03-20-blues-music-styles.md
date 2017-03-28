@@ -137,7 +137,7 @@ Country blues tends to have a ragtime or similar binary sound, often with guitar
 
 <div class="loopy">
   <span class="sample" data-title="Eight beats of country blues" data-pattern="11111111" data-src="/media/blues-music-styles/dontforgetit-extract-countryblues.wav"></span>
-  <span class="sample" data-title="Four binary beats" data-pattern="10032323" data-src="/media/blues-music-styles/4binarycountsdontforgetit.wav"></span>
+  <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/4binarycountsdontforgetit.wav"></span>
 </div>
 
 (Music is an extract from Don't Forget It by Nathan James & Ben Hernandez)
