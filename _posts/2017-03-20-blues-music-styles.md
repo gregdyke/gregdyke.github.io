@@ -68,6 +68,8 @@ On these kinds of songs, some of the typical dance rhythms are a plain step touc
   <span class="sample" data-title="Tchoo tchoo shuffle" data-pattern="102102102102" data-src="/media/blues-music-styles/Tchootchooshuffle.wav"></span>
 </div>
 
+(Music is an extract from Rain by the California Honeydrops)
+
 ## Jazz Blues
 
 A lot of music of the swing era (and thereabouts) is has characteristics of both jazz and blues. Jazz blues tends to be rather slow for swing dancing and have the same "a1 a2 a3 a4" as shuffle, but with the steady chug chug chug chug of swing music (or an equally steady boum tchick boum tchick of earlier jazz). The instrumentation also tends to be more swing-like, with a lot of melody in the horns.
@@ -87,6 +89,8 @@ From a dance perspective such musics can often be danced with an alternation of 
   <span class="sample" data-title="Quicks" data-pattern="1111" data-src="/media/blues-music-styles/4quicks.wav"></span>
 </div>
 
+(Music is an extract from Darkness on the Delta by Cassidy and the Orleans Kids)
+
 ## Slow Blues
 
 Last of the ternary we have slow blues. Often, all the ternary subdivisions are present, typically in the percussion. There is also some continuity between slow shuffle and slow blues, as there gets a point where the a1 a2 gets too slow for dancing shuffle and moves into slow drag. Depending on how the ternary beat is marked, there is also a relationship to waltzes.
@@ -104,29 +108,39 @@ Sticking to step touches and the occasional travelling steps works well with the
   <span class="sample" data-title="Step touch" data-pattern="1212" data-src="/media/blues-music-styles/Steptouch.wav"></span>
 </div>
 
-To make my job easier in recording for this post, I chose a particularly fast slow blues extract, that I sped up slightly, so that it would be at the same tempo as the shuffle extract (which is quite slow for a shuffle) and the jazz blues extract (which is also fairly slow).
+To make my job easier in recording the counts and steps for this post, I chose a particularly fast slow blues extract, that I sped up slightly, so that it would be at the same tempo as the shuffle extract (which is quite slow for a shuffle) and the jazz blues extract (which is also fairly slow).
+
+(Music is an extract from Please Mr. Jailer by Wynona Carr)
 
 ## Latin blues
 
 For those musics that are binary, a large variety of them are of different latin rhythms, going from rumba to the funky sound of boogaloo.
 
 <div class="loopy">
-  <span class="sample" data-title="Eight beats of latin blues" data-pattern="11111111" data-src="/media/blues-music-styles/bornunderabadsign-extract-latin.wav"></span>
-  <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/4binarycount.wav"></span>
+  <span class="sample" data-title="Eight beats of latin blues" data-pattern="11111111" data-src="/media/blues-music-styles/deathcomesknockin-extract-latin.wav"></span>
+  <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/4binarycountsdeathcomesknockin.wav"></span>
 </div>
 
 Various mixtures of slows and quick quicks work well. I particularly like the characteristic rumba rhythm of slow, quick quick or 1 - 3 4, with the pendulum swinging forward on every step (while the difference between binary and ternary doesn't matter if we're only stepping on slows and quick quicks, the pulse or pendulum is affected - and aside from stepping on beat subdivisions is one of the more interesting differences in dancing to binary vs ternary beats). In the example below, the "and" marks the back swing, and the slows and quicks mark the forward swing as well as the steps.
 
 <div class="loopy">
-  <span class="sample" data-title="Eight beats of latin blues" data-pattern="11111111" data-src="/media/blues-music-styles/bornunderabadsign-extract-latin.wav"></span>
-  <span class="sample" data-title="Rumba steps" data-pattern="10032323" data-src="/media/blues-music-styles/Rumbasteps.wav"></span>
+  <span class="sample" data-title="Eight beats of latin blues" data-pattern="11111111" data-src="/media/blues-music-styles/deathcomesknockin-extract-latin.wav"></span>
+  <span class="sample" data-title="Rumba counts" data-pattern="10032323" data-src="/media/blues-music-styles/Rumbacountsdeathcomesknockin.wav"></span>
+  <span class="sample" data-title="Rumba steps" data-pattern="10032323" data-src="/media/blues-music-styles/Rumbastepsdeathcomesknockin.wav"></span>
 </div>
+
+(Music is an extract from Death Comes a Knockin by Ruthie Foster)
 
 ## Country blues
 
-Country blues tends to have a ragtime or similar binary sound, often with guitar picking. To dance, a struttin', or paddle steps and skip hops work well.
+Country blues tends to have a ragtime or similar binary sound, often with guitar picking. To dance, struttin', or step-pulses, paddle steps and skip hops work well.
 
-https://www.youtube.com/watch?v=E2Gg5zNkGls
+<div class="loopy">
+  <span class="sample" data-title="Eight beats of country blues" data-pattern="11111111" data-src="/media/blues-music-styles/dontforgetit-extract-countryblues.wav"></span>
+  <span class="sample" data-title="Four binary beats" data-pattern="10032323" data-src="/media/blues-music-styles/4binarycountsdontforgetit.wav"></span>
+</div>
+
+(Music is an extract from Don't Forget It by Nathan James & Ben Hernandez)
 
 ## How does this help?
 
