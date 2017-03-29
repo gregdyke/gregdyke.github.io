@@ -9,9 +9,7 @@ As a blues dancer, trying to get your head around the huge variety of blues musi
 
 The way blues music is often described and categorised has rarely seemed directly relevant to me as a dancer. If you take the [All Music Guide to Blues](http://www.allmusic.com/genre/blues-ma0000002467), for example, various subgenres of blues are described by period, history, geographical area and instrumentation. The link to the blues idiom dances is not obvious, at least not in a "one music type" directly matching to "one blues idiom dance" kind of way.
 
-Knowing this history and how things relate *is* important if we want to develop a meaningful practice that is respectful of where the music and dance come from[^1]. However, coming from a "I just want to have fun and dance nicely to whatever music is playing" perspective, there is a lot to learn. Where to start?
-
-[Brenda Russell](http://www.dancemode.com/) has been teaching about blues music in the past few years with a focus on the different kinds of blues rhythms or "grooves" that can be found, and the ways in which such rhythms can be danced to. One could maybe call them "song types" rather than genres, styles or grooves? 
+Knowing this history and how things relate is important if we want to develop a meaningful practice that is respectful of where the music and dance come from[^1]. However, coming from a "I just want to have fun and dance nicely to whatever music is playing" perspective, there is a lot to learn. Where to start? 
 
 This is the simplest version that I have been able to make sense *and* use of (based mostly on the teaching of [Brenda Russell](http://www.dancemode.com/)). Any attempt to classify any kind of music into a small number of categories is doomed to failure, so think of it more as a starting point for exploration of ways of listening to blues music as dancers, than something that is in any way "correct".
 
@@ -23,7 +21,7 @@ Most musics can be thought of as having a regular beat. And some number of beats
   <span class="sample" data-title="Four equal beats" data-pattern="1111" data-src="/media/blues-music-styles/4count.wav"></span>
 </div>
 
-Beats tend to be subdivided more "organically", particularly in dance musics. Sometimes the subdivisions are perfectly regular: 1& 2& 3& 4& describes four *binary* beats; 1&a 2&a 3&a 4&a describes four *ternary* beats [^2].
+Beats tend to be subdivided more "organically", particularly in dance musics. Sometimes the subdivisions are perfectly regular: 1& 2& 3& 4& describes four *binary* beats; 1&a 2&a 3&a 4&a describes four *ternary* beats[^2].
 
 <div class="loopy">
   <span class="sample" data-title="Four binary beats" data-pattern="12121212" data-src="/media/blues-music-styles/4binarycount.wav"></span>
@@ -32,7 +30,7 @@ Beats tend to be subdivided more "organically", particularly in dance musics. So
   <span class="sample" data-title="Four ternary beats" data-pattern="122122122122" data-src="/media/blues-music-styles/4ternarycount.wav"></span>
 </div>
 
-The ternary beat is often expressed without the &: a1 a2 a3 a4. And the subdivisions of a beat are more fluid in their timing than the beats. They can be somewhere between binary and ternary, or in some music styles vary in amount within a tune. [^3]
+The ternary beat is often expressed without the &: a1 a2 a3 a4. And the subdivisions of a beat are more fluid in their timing than the beats. They can be somewhere between binary and ternary, or in some music styles vary in amount within a tune[^3].
 
 <div class="loopy">
   <span class="sample" data-title="Four ternary (swung/shuffle) beats" data-pattern="102102102102" data-src="/media/blues-music-styles/4shufflecount.wav"></span>
@@ -147,9 +145,10 @@ I was listening to a set at a blues dance while thinking about writing this post
 Ultimately, it is only a simple beginning to understanding more deeply where blues music comes from and how it makes us dance.
 
 ----
-
+<small>
 [^1]: Why is knowing about the history of blues music and dancing important? That's a question for another day. For now, let's just assume it *is* important, but we are deliberately ignoring most of this history in this post.
 
 [^2]: Deciding which regularly occurring pulse is **the** beat is not always unambiguous. Four binary beats could also be argued to be 8 beats, grouped in pairs (1-2 3-4 5-6 7-8), and four ternary beats could also be argued to be 12 beats, grouped in threes (1-2-3 4-5-6 7-8-9 10-11-12). Especially in the context of this post, it's just semantics.
 
 [^3]: In swing, for example, at certain tempos, the beat is evenly broken down into an even 3, with "swung" pairs of notes lasting 2/3 and 1/3 of a beat. As the tempo gets faster, the rhythm evens out more and more, but still leaving us with the *perception* of a swing feel. As the tempo gets slower, the rhythm becomes more uneven. http://www.speech.kth.se/prod/publications/files/2968.pdf 
+</small>
