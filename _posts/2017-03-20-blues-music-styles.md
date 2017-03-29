@@ -5,21 +5,19 @@ title: Blues Music Styles
 tags: dance, blues, english
 ---
 
-As a novice blues dancer, trying to understand blues music can be challenging. The variety is huge and the set of music that gets DJ'd (or played by live bands) is not always representative of this variety.
+As a blues dancer, trying to get your head around the huge variety of blues music can be challenging.
 
-The way blues music is often described and categorised has rarely seemed directly relevant to me as a dancer. If you take the [All Music Guide to Blues](http://www.allmusic.com/genre/blues-ma0000002467), for example, various subgenres of blues are described by period, history, geographical area and instrumentation. If you take the different blues idiom dances, many of them are also attached to a period and geographical area, and to specific types of music. But we tend to mix the various blues idiom dances together, leaving this link between dance and music slightly unhelpful.
+The way blues music is often described and categorised has rarely seemed directly relevant to me as a dancer. If you take the [All Music Guide to Blues](http://www.allmusic.com/genre/blues-ma0000002467), for example, various subgenres of blues are described by period, history, geographical area and instrumentation. The link to the blues idiom dances is not obvious, at least not in a "one music type" directly matching to "one blues idiom dance" kind of way.
 
-Knowing this history and how things relate *is* important if we want to develop a meaningful practice that is respectful of where the music and dance come from. [^1]
-
-However, coming from a "I just want to have fun and dance nicely to whatever music is playing" perspective, there is just too much information to assimilate over a short period of time, and too little that is directly (or obviously) relevant to dancing. Where to start?!
+Knowing this history and how things relate *is* important if we want to develop a meaningful practice that is respectful of where the music and dance come from[^1]. However, coming from a "I just want to have fun and dance nicely to whatever music is playing" perspective, there is a lot to learn. Where to start?
 
 [Brenda Russell](http://www.dancemode.com/) has been teaching about blues music in the past few years with a focus on the different kinds of blues rhythms or "grooves" that can be found, and the ways in which such rhythms can be danced to. One could maybe call them "song types" rather than genres, styles or grooves? 
 
-This is a summary of the simplest version that I have been able to make sense *and* use of. Any attempt to classify any kind of music into a small number of categories is doomed to failure, so think of it more as a starting point for exploration of ways of listening to blues music as dancers, than something that is in any way "correct".
+This is the simplest version that I have been able to make sense *and* use of (based mostly on the teaching of [Brenda Russell](http://www.dancemode.com/)). Any attempt to classify any kind of music into a small number of categories is doomed to failure, so think of it more as a starting point for exploration of ways of listening to blues music as dancers, than something that is in any way "correct".
 
 ## Binary or Ternary?
 
-Many musics can be thought of as having a regular beat. And some number of beats (often 3 or 4) group together into a bar, which are often grouped together further into 2s, 4s, 8s or 12s (or any other group), to form phrases. We often count these beats with numbers: 1 2 3 4.
+Most musics can be thought of as having a regular beat. And some number of beats (often 3 or 4) group together into a bar, which are often grouped together further into 2s, 4s, 8s or 12s (or any other group), to form phrases. We often count these beats with numbers: 1 2 3 4.
 
 <div class="loopy">
   <span class="sample" data-title="Four equal beats" data-pattern="1111" data-src="/media/blues-music-styles/4count.wav"></span>
@@ -147,6 +145,8 @@ Country blues tends to have a ragtime or similar binary sound, often with guitar
 I was listening to a set at a blues dance while thinking about writing this post, and, because it was a good set, with a lot of musical variety, many songs didn't fit nicely into this classification. But the majority did. When a music doesn't directly speak to my body and cause it to move, I use these categories to try to connect to ideas of dance basics that I can use beyond "simple" step-touches. I also use it when I DJ and teach, as one of the ways to keep things within a similar theme but also including variety: staying within shuffle, electric vs acoustic, or sticking to electric guitar, but moving from slow blues to boogaloo.
 
 Ultimately, it is only a simple beginning to understanding more deeply where blues music comes from and how it makes us dance.
+
+----
 
 [^1]: Why is knowing about the history of blues music and dancing important? That's a question for another day. For now, let's just assume it *is* important, but we are deliberately ignoring most of this history in this post.
 
