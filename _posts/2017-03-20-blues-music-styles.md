@@ -144,10 +144,8 @@ I was listening to a set at a blues dance while thinking about writing this post
 
 Ultimately, it is only a simple beginning to understanding more deeply where blues music comes from and how it makes us dance.
 
-----
+[^1]: Why is knowing about the history of blues music and dancing important? That's a question for another day. For now, let's just assume it *is* important, but we are deliberately ignoring most of this history in this post.
 
-[^1]: <small>Why is knowing about the history of blues music and dancing important? That's a question for another day. For now, let's just assume it *is* important, but we are deliberately ignoring most of this history in this post.</small>
+[^2]: Deciding which regularly occurring pulse is *the* beat is not always unambiguous. Four binary beats could also be argued to be 8 beats, grouped in pairs (1-2 3-4 5-6 7-8), and four ternary beats could also be argued to be 12 beats, grouped in threes (1-2-3 4-5-6 7-8-9 10-11-12). Especially in the context of this post, it's just semantics.
 
-[^2]: <small>Deciding which regularly occurring pulse is *the* beat is not always unambiguous. Four binary beats could also be argued to be 8 beats, grouped in pairs (1-2 3-4 5-6 7-8), and four ternary beats could also be argued to be 12 beats, grouped in threes (1-2-3 4-5-6 7-8-9 10-11-12). Especially in the context of this post, it's just semantics.</small>
-
-[^3]: <small>In swing, for example, at certain tempos, the beat is evenly broken down into an even 3, with "swung" pairs of notes lasting 2/3 and 1/3 of a beat. As the tempo gets faster, the rhythm evens out more and more, but still leaving us with the *perception* of a swing feel. As the tempo gets slower, the rhythm becomes more uneven. http://www.speech.kth.se/prod/publications/files/2968.pdf</small>
+[^3]: In swing, for example, at certain tempos, the beat is evenly broken down into an even 3, with "swung" pairs of notes lasting 2/3 and 1/3 of a beat. As the tempo gets faster, the rhythm evens out more and more, but still leaving us with the *perception* of a swing feel. As the tempo gets slower, the rhythm becomes more uneven. http://www.speech.kth.se/prod/publications/files/2968.pdf
