@@ -70,7 +70,7 @@ Both the three beats against two beats and the binary beat against ternary beat 
   <span class="sample" data-title="Three binary beats" data-pattern="121212" data-src="/media/polyrhythms/1&2&3&-pissin.wav"></span>
 </div>
 
-The second is slightly rarer and tends to be a more ambiguous move away from pure ternary beats. But in some songs, such as the following, whole sections shift over two binary for a period, before moving back to ternary.
+The second is slightly rarer and tends to be a more ambiguous move away from pure ternary beats. But in some songs, such as the following, whole sections shift over to binary for a period, before moving back to ternary.
 
 <div class="loopy">
   <span class="sample" data-title="Need a little more time" data-pattern="400050400050400050400050400050400050400050400050400050400050400050400050400050400050400050400050400500400500400500400500400500400500400500400500400500400500400500400500400500400500400500400500" data-src="/media/polyrhythms/need-little-more-time-ternary-binary.wav"></span>
@@ -110,7 +110,7 @@ Another way of thinking of the habanera rhythm is a "displaced" two in a four be
 This kind of rhythm can be found in a lot latin blues, either as a permanent rhythmic feature of a kind of habanera, or as a variation in which the rumba rhythm is displaced. In turn, habanera can be thought of as rumba+tresillo.
 
 <div class="loopy">
-  <span class="sample" data-title="latin blues extract" data-pattern="1212" data-src="/media/polyrhythms/hello-mrs-brown-4beats.wav"></span>
+  <span class="sample" data-title="Hello Mrs Brown" data-pattern="1212" data-src="/media/polyrhythms/hello-mrs-brown-4beats.wav"></span>
   <span class="sample" data-title="habanera" data-pattern="10021010" data-src="/media/polyrhythms/1&34.wav"></span>
   <span class="sample" data-title="rumba" data-pattern="10001010" data-src="/media/polyrhythms/Slowquickquick.wav"></span>
   <span class="sample" data-title="tresillo" data-pattern="10010010" data-src="/media/polyrhythms/Slowslowquick.wav"></span>
