@@ -27,7 +27,7 @@ Now start the two beat rhythm with your left again. Keep playing that two beat r
 
 Now instead, just say the two against three rhythm pattern out loud: "Koun tch-ka-ts"[^5]. That's probably a lot easier. You can probably also beat it out with one hand on one knee quite easily. To beat it out with two hands it goes "both right-left-right", which I also find quite easy.
 
-If you're like me, doing the rhythm "together" is actually quite easy. It's thinking of it as two layered rhythms that is more challenging. I think this is what makes polyrhythms interesting: there is an underlying simplicity (a 2-beat rhythm played together with a 3-beat rhythm) that our brain simultaneously identifies as simple and complex. And surprisingly to me, it's the "special 2+3 thing" (that I'll also call the [gestalt](https://en.wikipedia.org/wiki/Gestalt) view, looking at the 2+3 as a whole) that is actually easy to perform, while the apparently simple thing of doing 2 beats with one body part and 3 with another is difficult.
+If you're like me, doing the rhythm "together" is not so hard. It's thinking of it as two layered rhythms that is more challenging. I think this is what makes polyrhythms interesting: there is an underlying simplicity (a 2-beat rhythm played together with a 3-beat rhythm) that our brain simultaneously identifies as simple and complex. And surprisingly to me, it's the "special 2+3 thing" (that I'll also call the [gestalt](https://en.wikipedia.org/wiki/Gestalt) view, looking at the 2+3 as a whole) that is actually easy to perform, while the apparently simple thing of doing 2 beats with one body part and 3 with another is difficult.
 
 The third part that is cool is what the two beat rhythm suggests about the three beat rhythm and vice versa. If we count the 2+3 thing as if it had a three beat basis, we get "1 2&3". This suggests an underlying binary rhythm, "1&2&3&". If we count the 2+3 thing as if it had a two beat basis, we get "1 a2n", suggesting an underlying ternary rhythm, "1na2na".
 
@@ -56,9 +56,9 @@ Let's take some slow blues. Slow blues has a two beat rhythm[^3]. Each of these 
 <div class="loopy">
   <span class="sample" data-title="8 beats of slow blues" data-pattern="11111111" data-src="/media/polyrhythms/pissin-on-a-skunk-8beats.wav"></span>
   <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/Kountstchkatstch.wav"></span>
-  <span class="sample" data-title="Three against two" data-pattern="101010" data-src="/media/polyrhythms/Kountchts.wav"></span>
+  <span class="sample" data-title="Three binary beats" data-pattern="101010" data-src="/media/polyrhythms/Kountchts.wav"></span>
   <span class="sample" data-title="Three against two with subdivisions" data-pattern="121212" data-src="/media/polyrhythms/1&2&3&.wav"></span>
-  <span class="sample" data-title="Binary against ternary" data-pattern="100100100100" data-src="/media/polyrhythms/Kounkekake.wav"></span>
+  <span class="sample" data-title="Two binary beats" data-pattern="100100100100" data-src="/media/polyrhythms/Kounkekake.wav"></span>
   <span class="sample" data-title="Binary against ternary with subdivisions" data-pattern="102320102320" data-src="/media/polyrhythms/Kountsketchkatsketch.wav"></span>
 </div>
 
@@ -73,7 +73,7 @@ Both the three beats against two beats and the binary beat against ternary beat 
 The second is slightly rarer and tends to be a more ambiguous move away from pure ternary beats. But in some songs, such as the following, whole sections shift over two binary for a period, before moving back to ternary.
 
 <div class="loopy">
-  <span class="sample" data-title="Need a little more time" data-pattern="200030200030200030200030200030200030200030200030200030200030200030200030200030200030200030200030200300200300200300200300200300200300200300200300200300200300200300200300200300200300200300200300" data-src="/media/polyrhythms/need-little-more-time-ternary-binary.wav"></span>
+  <span class="sample" data-title="Need a little more time" data-pattern="300040300040300040300040300040300040300040300040300040300040300040300040300040300040300040300040300400300400300400300400300400300400300400300400300400300400300400300400300400300400300400300400" data-src="/media/polyrhythms/need-little-more-time-ternary-binary.wav"></span>
   <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/1na2na-moretime.wav"></span>
   <span class="sample" data-title="Two binary beats" data-pattern="1212" data-src="/media/polyrhythms/1&2&-moretime.wav"></span>
 </div>
@@ -81,8 +81,8 @@ The second is slightly rarer and tends to be a more ambiguous move away from pur
 Both variations played against each other give the "next" simplest polyrhythm: three against four
 
 <div class="loopy">
-  <span class="sample" data-title="Three binary beats" data-pattern="121212" data-src="/media/polyrhythms/Kountchts.wav"></span>
-  <span class="sample" data-title="Two binary beats" data-pattern="1212" data-src="/media/polyrhythms/Kounkekake.wav"></span>
+  <span class="sample" data-title="Three beats" data-pattern="101010" data-src="/media/polyrhythms/Kountchts.wav"></span>
+  <span class="sample" data-title="Four beats" data-pattern="1111" data-src="/media/polyrhythms/Kounkekake.wav"></span>
   <span class="sample" data-title="Three against four" data-pattern="100320102300" data-src="/media/polyrhythms/Kounketchkatske.wav"></span>
 </div>
 
@@ -145,9 +145,13 @@ Happy polyrhythming! And if you find it harder than it seems like it ought to be
        Two beats are called "koun" and "ka". The binary subdivisions are called "ke". The ternary subdivisions are called "ts" and "tch". The complete subdivision of 2 beats into 12 would be "koun-ki-ts-ke-tch-ki-ka-ki-ts-ke-tch-ki". 
 
        I also call mostly call beats by numbers, with binary subdivisions called "&" and ternary subdivisions called "n" and "a" ("n" is short for "and"). This at least eliminates confusion as to whether I'm writing a binary or ternary subdivision (note that there are no subdivisons into 4, so nothing is implied to match "1e&a" that is used in quaternary). 
+
 [^1]: On paper, it can be quite hard to decide whether a "6 beat" rhythm is actually 6 beats, 2 ternary beats, or 3 binary beats. Given musical context (like a song), one of these interpretations of "the beat" is usually dominant (as the place where we would clap our hands, snap our fingers or pulse our body). Because polyrhythms revel in ambiguity, I'll sometimes refer to non-dominant interpretations of "the beat". I mean these as a way of thinking about it on paper, rather than a claim that it is "reality".
+
 [^2]: Technically once we start counting like that, it's bars or beats of different lengths and it's a polymeter, not a polyrhythm. But especially with the two against three, it's also a useful way of looking at it.
+
 [^3]: Generally grouped together in bars of 4 beats, but we can ignore that for now.
+
 [^4]: This is especially true of, but not limited to, music that has an African cultural heritage, such as blues and pop music.
 
 
