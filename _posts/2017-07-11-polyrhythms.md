@@ -73,7 +73,7 @@ Both the three beats against two beats and the binary beat against ternary beat 
 The second is slightly rarer and tends to be a more ambiguous move away from pure ternary beats. But in some songs, such as the following, whole sections shift over to binary for a period, before moving back to ternary.
 
 <div class="loopy">
-  <span class="sample" data-title="Need a little more time" data-pattern="400050400050400050400050400050400050400050400050400050400050400050400050400050400050400050400050400500400500400500400500400500400500400500400500400500400500400500400500400500400500400500400500" data-src="/media/polyrhythms/need-little-more-time-ternary-binary.wav"></span>
+  <span class="sample" data-title="Need a little more time" data-pattern="400060400060400060400060400060400060400060400060400060400060400060400060400060400060400060400060400600400600400600400600400600400600400600400600400600400600400600400600400600400600400600400600" data-src="/media/polyrhythms/need-little-more-time-ternary-binary.wav"></span>
   <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/1na2na-moretime.wav"></span>
   <span class="sample" data-title="Two binary beats" data-pattern="1212" data-src="/media/polyrhythms/1&2&-moretime.wav"></span>
 </div>
