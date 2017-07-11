@@ -38,7 +38,7 @@ The third part that is cool is what the two beat rhythm suggests about the three
   <span class="sample" data-title="Two beat ternary rhythm" data-pattern="122122" data-src="/media/polyrhythms/1na2na.wav"></span>
 </div>
 
-Both of these break down into an underlying six beat rhythm, with emphasis on different beats[^1]. If we go to a 6 beat interpretation of the rhythm, we can count it in two different ways: "121212" and "123123". Each count represents the same time value (one sixth of the bar). The first two beats have the same "names" in both ways of counting, and then the two get offset until they meet again after 6 beats[^2]. The places where we count "1" are the places that are emphasized in the two against three polyrhythm [^2]. You can also try beating out with both hands on your knees, using a flat hand for the "1"s and the fist for the other two beats.
+Both of these break down into an underlying six beat rhythm, with emphasis on different beats[^1]. If we go to a 6 beat interpretation of the rhythm, we can count it in two different ways: "121212" and "123123". Each count represents the same time value (one sixth of the bar). The first two beats have the same "names" in both ways of counting, and then the two get offset until they meet again after 6 beats. The places where we count "1" are the places that are emphasized in the two against three polyrhythm[^2]. You can also try beating out with both hands on your knees, using a flat hand for the "1"s and the fist for the other two beats.
 
 <div class="loopy">
   <span class="sample" data-title="Counting six beats in twos" data-pattern="121212" data-src="/media/polyrhythms/121212.wav"></span>
@@ -73,7 +73,7 @@ Both the three beats against two beats and the binary beat against ternary beat 
 The second is slightly rarer and tends to be a more ambiguous move away from pure ternary beats. But in some songs, such as the following, whole sections shift over two binary for a period, before moving back to ternary.
 
 <div class="loopy">
-  <span class="sample" data-title="Need a little more time" data-pattern="300040300040300040300040300040300040300040300040300040300040300040300040300040300040300040300040300400300400300400300400300400300400300400300400300400300400300400300400300400300400300400300400" data-src="/media/polyrhythms/need-little-more-time-ternary-binary.wav"></span>
+  <span class="sample" data-title="Need a little more time" data-pattern="400050400050400050400050400050400050400050400050400050400050400050400050400050400050400050400050400500400500400500400500400500400500400500400500400500400500400500400500400500400500400500400500" data-src="/media/polyrhythms/need-little-more-time-ternary-binary.wav"></span>
   <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/1na2na-moretime.wav"></span>
   <span class="sample" data-title="Two binary beats" data-pattern="1212" data-src="/media/polyrhythms/1&2&-moretime.wav"></span>
 </div>
