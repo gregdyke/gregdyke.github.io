@@ -14,9 +14,9 @@ Polyrhythms are cool. We like to deal in absolutes, but they remind us that some
 At their core, polyrhythms are two or more rhythms that take up the same amount of time but don't line up inside that time. The simplest of these is two against three. If we take a two beat rhythm, this breaks up the bar into two equal beats. If we take a three beat rhythm, this breaks up the bar into three equal beats (surprise!). If we play both of these rhythms, we can simultaneously break up the bar into two and three equal parts.
 
 <div class="loopy">
-  <span class="sample" data-title="Two beat rhythm" data-pattern="11" data-src="/media/polyrhythms/Kounka.wav"></span>
-  <span class="sample" data-title="Three beat rhythm" data-pattern="111" data-src="/media/polyrhythms/Kountchts.wav"></span>
-  <span class="sample" data-title="Two against three polyrhythm" data-pattern="101110" data-src="/media/polyrhythms/Kountchkats.wav"></span>
+  <span class="sample" data-title="Two beat rhythm" data-pattern="11" data-src="/media/polyrhythms/kounka.wav"></span>
+  <span class="sample" data-title="Three beat rhythm" data-pattern="111" data-src="/media/polyrhythms/kountchts.wav"></span>
+  <span class="sample" data-title="Two against three polyrhythm" data-pattern="101110" data-src="/media/polyrhythms/kountchkats.wav"></span>
 </div>
 
 The first part that is cool about this is that there is no ground truth. It is both a three count rhythm, and a two count rhythm. And its own special 2+3 thing.
@@ -55,11 +55,11 @@ Let's take some slow blues. Slow blues has a two beat rhythm[^3]. Each of these 
 
 <div class="loopy">
   <span class="sample" data-title="8 beats of slow blues" data-pattern="11111111" data-src="/media/polyrhythms/pissin-on-a-skunk-8beats.wav"></span>
-  <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/Kountstchkatstch.wav"></span>
-  <span class="sample" data-title="Three binary beats" data-pattern="101010" data-src="/media/polyrhythms/Kountchts.wav"></span>
+  <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/kountstchkatstch.wav"></span>
+  <span class="sample" data-title="Three binary beats" data-pattern="101010" data-src="/media/polyrhythms/kountchts.wav"></span>
   <span class="sample" data-title="Three against two with subdivisions" data-pattern="121212" data-src="/media/polyrhythms/1&2&3&.wav"></span>
-  <span class="sample" data-title="Two binary beats" data-pattern="100100100100" data-src="/media/polyrhythms/Kounkekake.wav"></span>
-  <span class="sample" data-title="Binary against ternary with subdivisions" data-pattern="102320102320" data-src="/media/polyrhythms/Kountsketchkatsketch.wav"></span>
+  <span class="sample" data-title="Two binary beats" data-pattern="100100100100" data-src="/media/polyrhythms/kounkekake.wav"></span>
+  <span class="sample" data-title="Binary against ternary with subdivisions" data-pattern="102320102320" data-src="/media/polyrhythms/kountsketchkatsketch.wav"></span>
 </div>
 
 Both the three beats against two beats and the binary beat against ternary beat patterns can be found in blues music. The first is a very frequent variation, such as in this song.
@@ -81,9 +81,9 @@ The second is slightly rarer and tends to be a more ambiguous move away from pur
 Both variations played against each other give the "next" simplest polyrhythm: three against four
 
 <div class="loopy">
-  <span class="sample" data-title="Three beats" data-pattern="101010" data-src="/media/polyrhythms/Kountchts.wav"></span>
-  <span class="sample" data-title="Four beats" data-pattern="1111" data-src="/media/polyrhythms/Kounkekake.wav"></span>
-  <span class="sample" data-title="Three against four" data-pattern="100320102300" data-src="/media/polyrhythms/Kounketchkatske.wav"></span>
+  <span class="sample" data-title="Three beats" data-pattern="101010" data-src="/media/polyrhythms/kountchts.wav"></span>
+  <span class="sample" data-title="Four beats" data-pattern="1111" data-src="/media/polyrhythms/kounkekake.wav"></span>
+  <span class="sample" data-title="Three against four" data-pattern="100320102300" data-src="/media/polyrhythms/kounketchkatske.wav"></span>
 </div>
 
 ## Two against three in binary music
@@ -91,7 +91,7 @@ Both variations played against each other give the "next" simplest polyrhythm: t
 A lot of binary blues music comes either directly from latin/carribean music, or indirectly through ragtime-y charleston-y influences. A main motif of this is the *tresillo* rhythm, also known as 332. You can think of it in several ways. One is that you break 8 counts into 123 456 78. Another is that you take four main beats and place a two over three on the first three beats and leave the 4th intact. This places an emphasis on beat 1, the "and" between beats 2 and 3, and on beat 4. When clapping, it creates a sort of "clap on the one, miss the two, clap on the "and", miss the three, clap on four",  If you combine tresillo with an accent on the odd beats (1 and 3), you get the familiar habanera rhythm, found in kizomba, milonga, and many other musics. 
 
 <div class="loopy">
-  <span class="sample" data-title="tresillo" data-pattern="10010010" data-src="/media/polyrhythms/Kounkati.wav"></span>
+  <span class="sample" data-title="tresillo" data-pattern="10010010" data-src="/media/polyrhythms/kounkati.wav"></span>
   <span class="sample" data-title="tresillo as 332" data-pattern="12212212" data-src="/media/polyrhythms/12312312.wav"></span>
   <span class="sample" data-title="four beats" data-pattern="1111" data-src="/media/polyrhythms/1234.wav"></span>
   <span class="sample" data-title="tresillo counted on 4 binary beats" data-pattern="13323313" data-src="/media/polyrhythms/1&2and3&4&.wav"></span>
@@ -103,8 +103,8 @@ Another way of thinking of the habanera rhythm is a "displaced" two in a four be
 <div class="loopy">
   <span class="sample" data-title="four beats" data-pattern="1212" data-src="/media/polyrhythms/1234.wav"></span>
   <span class="sample" data-title="habanera as delayed 2" data-pattern="10021020" data-src="/media/polyrhythms/1234-displaced.wav"></span>
-  <span class="sample" data-title="rumba as slow quick quick" data-pattern="10001010" data-src="/media/polyrhythms/Slowquickquick.wav"></span>
-  <span class="sample" data-title="tresillo as anticipate quick" data-pattern="10010010" data-src="/media/polyrhythms/Slowslowquick.wav"></span>
+  <span class="sample" data-title="rumba as slow quick quick" data-pattern="10001010" data-src="/media/polyrhythms/slowquickquick.wav"></span>
+  <span class="sample" data-title="tresillo as anticipate quick" data-pattern="10010010" data-src="/media/polyrhythms/slowslowquick.wav"></span>
 </div>
 
 This kind of rhythm can be found in a lot latin blues, either as a permanent rhythmic feature of a kind of habanera, or as a variation in which the rumba rhythm is displaced. In turn, habanera can be thought of as rumba+tresillo.
@@ -112,8 +112,8 @@ This kind of rhythm can be found in a lot latin blues, either as a permanent rhy
 <div class="loopy">
   <span class="sample" data-title="Hello Mrs Brown" data-pattern="1212" data-src="/media/polyrhythms/hello-mrs-brown-4beats.wav"></span>
   <span class="sample" data-title="habanera" data-pattern="10021010" data-src="/media/polyrhythms/1&34.wav"></span>
-  <span class="sample" data-title="rumba" data-pattern="10001010" data-src="/media/polyrhythms/Slowquickquick.wav"></span>
-  <span class="sample" data-title="tresillo" data-pattern="10010010" data-src="/media/polyrhythms/Slowslowquick.wav"></span>
+  <span class="sample" data-title="rumba" data-pattern="10001010" data-src="/media/polyrhythms/slowquickquick.wav"></span>
+  <span class="sample" data-title="tresillo" data-pattern="10010010" data-src="/media/polyrhythms/slowslowquick.wav"></span>
 </div>
 
 ## Going further
