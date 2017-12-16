@@ -56,7 +56,7 @@ Let's take some slow blues. Slow blues has a two beat rhythm[^3]. Each of these 
 <div class="loopy">
   <span class="sample" data-title="8 beats of slow blues" data-pattern="11111111" data-src="/media/polyrhythms/pissin-on-a-skunk-8beats.wav"></span>
   <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/kountstchkatstch.wav"></span>
-  <span class="sample" data-title="Three binary beats" data-pattern="101010" data-src="/media/polyrhythms/kountchts.wav"></span>
+  <span class="sample" data-title="Three (implied binary) beats" data-pattern="101010" data-src="/media/polyrhythms/kountchts.wav"></span>
   <span class="sample" data-title="Three against two with subdivisions" data-pattern="121212" data-src="/media/polyrhythms/1&2&3&.wav"></span>
   <span class="sample" data-title="Two binary beats" data-pattern="100100100100" data-src="/media/polyrhythms/kounkekake.wav"></span>
   <span class="sample" data-title="Binary against ternary with subdivisions" data-pattern="102320102320" data-src="/media/polyrhythms/kountsketchkatsketch.wav"></span>
@@ -101,10 +101,10 @@ A lot of binary blues music comes either directly from latin/carribean music, or
 Another way of thinking of the habanera rhythm is a "displaced" two in a four beat rhythm (in this case delayed). The tresillo can then be thought of as a displaced beat in a rumba rhythm. The rumba goes "slow, quick, quick". In tresillo, we *anticipate* the first quick and call it "slow" instead, leading to a sort of "slow, slow, quick" (where the slow takes up 1.5 beats, rather that 2 beats).
 
 <div class="loopy">
-  <span class="sample" data-title="four beats" data-pattern="1212" data-src="/media/polyrhythms/1234.wav"></span>
-  <span class="sample" data-title="habanera as delayed 2" data-pattern="10021020" data-src="/media/polyrhythms/1234-displaced.wav"></span>
-  <span class="sample" data-title="rumba as slow quick quick" data-pattern="10001010" data-src="/media/polyrhythms/slowquickquick.wav"></span>
-  <span class="sample" data-title="tresillo as anticipate quick" data-pattern="10010010" data-src="/media/polyrhythms/slowslowquick.wav"></span>
+  <span class="sample" data-title="Four beats" data-pattern="1212" data-src="/media/polyrhythms/1234.wav"></span>
+  <span class="sample" data-title="Habanera as delayed 2" data-pattern="10021020" data-src="/media/polyrhythms/1234-displaced.wav"></span>
+  <span class="sample" data-title="Rumba as slow quick quick" data-pattern="10001010" data-src="/media/polyrhythms/slowquickquick.wav"></span>
+  <span class="sample" data-title="Tresillo as anticipated quick" data-pattern="10010010" data-src="/media/polyrhythms/slowslowquick.wav"></span>
 </div>
 
 This kind of rhythm can be found in a lot latin blues, either as a permanent rhythmic feature of a kind of habanera, or as a variation in which the rumba rhythm is displaced. In turn, habanera can be thought of as rumba+tresillo.
