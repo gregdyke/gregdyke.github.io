@@ -7,7 +7,7 @@ tags: dance, music, english, blues
 
 Polyrhythms are cool. We like to deal in absolutes, but they remind us that sometimes Schrödinger's cat is simultaneously alive and dead. They are both simple and mind boggling, providing the perfect way to create contrasts, and to highlight or suggest underlying rhythms in music or dancing.
 
-![Bones of the arm](/images/alive-dead.png)
+![Alive or Dead?](/images/alive-dead.png)
 
 ## Multiple rhythms at the same time
 
@@ -62,7 +62,9 @@ Let's take some slow blues. Slow blues has a two beat rhythm[^3]. Each of these 
   <span class="sample" data-title="Binary against ternary with subdivisions" data-pattern="102320102320" data-src="/media/polyrhythms/kountsketchkatsketch.wav"></span>
 </div>
 
-Both the three beats against two beats and the binary beat against ternary beat patterns can be found in blues music. The first is a very frequent variation, such as in this song.
+<small>(Music credit: (No Need) Pissin' on a Skunk - Safire - The Uppity Blues Woman)</small>
+
+Both the three beats against two beats and the binary beat against ternary beat patterns can be found in blues music. The first is a very frequent variation, such as in the same song.
 
 <div class="loopy">
   <span class="sample" data-title="Pissin' on a skunk" data-pattern="102102102102101010102102" data-src="/media/polyrhythms/pissin-on-a-skunk-8beats-3over2.wav"></span>
@@ -77,6 +79,8 @@ The second is slightly rarer and tends to be a more ambiguous move away from pur
   <span class="sample" data-title="Two ternary beats" data-pattern="122122" data-src="/media/polyrhythms/1na2na-moretime.wav"></span>
   <span class="sample" data-title="Two binary beats" data-pattern="1212" data-src="/media/polyrhythms/1&2&-moretime.wav"></span>
 </div>
+
+<small>(Music credit: Need a Little More Time - Sugaray Rayford)</small>
 
 Both variations played against each other give the "next" simplest polyrhythm: three against four
 
@@ -115,6 +119,8 @@ This kind of rhythm can be found in a lot latin blues, either as a permanent rhy
   <span class="sample" data-title="rumba" data-pattern="10001010" data-src="/media/polyrhythms/slowquickquick.wav"></span>
   <span class="sample" data-title="tresillo" data-pattern="10010010" data-src="/media/polyrhythms/slowslowquick.wav"></span>
 </div>
+
+<small>(Music credit: Hello Mrs Brown by Byther Smith)</small>
 
 ## Going further
 
