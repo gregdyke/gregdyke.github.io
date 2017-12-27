@@ -9,7 +9,7 @@ I used to consider myself an ungraceful dancer. I accepted this as unchangeable,
 
 I’d like to teach some classes on body mechanics for dancers in the near future and was thinking about why I found body mechanics so profoundly impactful, and important enough that I’d like to grow a local community (ideally open to dancers from a variety of dance styles) to work with me on these ideas.  
 
-A limited "knowledge" of body mechanics does many prevent plenty of dancers from being amazing. This is because this knowledge is already engrained in their bodies and in their movement, much in the same way that we are able to speak our native language without having a detailed knowledge of how its grammar works. (Do you know in what circumstances we say "ate" and in what circumstances we say "have eaten"? Ask a non-native English speaker some time!)
+Plenty of amazing dancers have a limited "knowledge" of body mechanics. This is because this knowledge is already engrained in their bodies and in their movement, much in the same way that we are able to speak our native language without having a detailed knowledge of how its grammar works. (Do you know in what circumstances we say "ate" and in what circumstances we say "have eaten"? Ask a non-native English speaker some time!)
 
 But if you feel like you are learning dance as a "foreign language" and would like to become a "native dancer", or you want to help your students find shortcuts to becoming a "native speaker of dance", working on improving your knowledge and embodiment (your ability to have this knowledge reflected in your movement) of body mechanics will help you in a variety of ways.
 
