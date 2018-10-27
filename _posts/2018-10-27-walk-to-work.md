@@ -17,16 +17,16 @@ Ultimately, this all stems from the influence of Seth Godin. Make [art](https://
 
 Here is a list of episodes by topic. I may update this list from time to time. If anything I say inspires you (agrees with you, disagrees with you), get in touch!
 
-###Dance (culture/philosophy)
+### Dance (culture/philosophy)
 
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-3---Dance-philosophy-and-the-Magic-colour-pie-e1nq99" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-12---Trad-and-folk-aesthetics-of-Bal-Folk-e249er" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-16---European-dance-vs-African-American-dance-e2b2po" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-###Dance technique
+### Dance technique
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-7---Connection--Counterbalance-and-Stretch-e1tdsp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-###Teaching and learning
+### Teaching and learning
 
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-1---Beginner-Dance-Classes-e1md6g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-2---Dancemode-Immersions-e1mo1e" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
@@ -38,7 +38,7 @@ Here is a list of episodes by topic. I may update this list from time to time. I
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-17---Epistemological-Frames-e2b8ge" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-18---Narrative-Equity-e2ecso" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-###Body Mechanics
+### Body Mechanics
 
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-4---Body-Mechanics-for-Partner-Dancing--Part-1-e1p65c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 <iframe src="https://anchor.fm/gregdyke/embed/episodes/Episode-5---Body-Mechanics-for-Partner-Dancing--Part-2-e1pcji" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
