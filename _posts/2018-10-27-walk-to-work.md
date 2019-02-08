@@ -65,9 +65,9 @@ Some notes and links to go with episode 33.
     * https://www.honeyblues.co.uk/library (Where you can borrow these books and many more)
     * [How long ’til black future month](https://www.amazon.co.uk/How-Long-Black-Future-Month/dp/0356512541) fiction by N. K. Jemisin  
   * Some posts about using our (white) voices and being good allies
-    * Don’t speak for black people https://www.glsen.org/blog/speak-us-not-us-privilege-oppression-and-allyship
-    * How to be a good ally https://blog.usejournal.com/in-my-community-people-of-color-seem-to-have-more-conflict-with-white-allies-than-white-9e9e5d778246
-    * Where I borrowed/changed the stepping on toes analogy http://www.guidetoallyship.com/
+    * [Don’t speak for black people](https://www.glsen.org/blog/speak-us-not-us-privilege-oppression-and-allyship)
+    * [How to be a good ally](https://blog.usejournal.com/in-my-community-people-of-color-seem-to-have-more-conflict-with-white-allies-than-white-9e9e5d778246)
+    * [More on being a good ally](http://www.guidetoallyship.com/) where I borrowed/changed the stepping on toes analogy from
   * Scott Woods writes very eloquently
     * [Why racism isn’t anywhere near over](https://scottwoodsmakeslists.wordpress.com/2017/08/16/we-arent-at-the-healing-stage-with-racism/)
     * [On the definition of racism](https://scottwoodsmakeslists.wordpress.com/2014/01/14/5-ways-we-handle-racism-all-wrong/)
