@@ -41,7 +41,7 @@ Some notes and links to go with episode 33.
     * Dierdre Molloy http://www.dthinktank.com/p/identity-appropriation.html 
     * Odysseus Bailer on what we can do: https://docs.google.com/document/d/1TOTYNV8K1Qy4hS1RB0JiUAEqvlpZh3FVTi_d50pGsi0/edit
   * They also have some [recommended reading](https://www.adamoandvicci.com/2017/02/recommended-reading/)
-  * Toska Blues (Grey Ruffin and Vartan Khachaturov) posts about
+  * Toska Blues (Grey Ruffin and Vartan Khachaturov) has posts about
     * Gender and blues dance roles and black culture
       * Grey on [gender and following](https://www.toskablues.com/single-post/2017/03/19/%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0-Sistas-an-article-on-gender-and-following)
       * Vartan on [men and dancing](https://www.toskablues.com/single-post/2017/03/19/%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D0%B0-on-men-and-dancing)
