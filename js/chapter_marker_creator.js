@@ -39,7 +39,7 @@ function Chapters() {
   this.times = []
 
   this.addChapter = function(time, chapter) {
-    this.chapters[time] = this.chapter
+    this.chapters[time] = chapter
     this.times.push(time)
   }
 
