@@ -248,7 +248,8 @@ window.ChapterMarkerPlayer = {
     // This is a private method that isn't exposed via the ChapterMarkerPlayer namespace.
     function addChapterMarkers(containerElement, player, seeker) {
       var markersRoot = document.createElement('ol');
-      if (params.chapters.getSections()) {
+      var chapters = params.chapters
+      if (chapters.getSections()) {
 	markersRoot = $("<table class='chapter-table'></table>")
         chapters.getSections().forEach(function(section) {
           var $tr = $("<tr><td>" + section.title + "</td></tr>")
@@ -265,7 +266,7 @@ window.ChapterMarkerPlayer = {
 
         for (var i = 0; i < times.length; i++) {
           var time = times[i];
-          var chapterTitle = params.chapters.getChapter(time);
+          var chapterTitle = chapters.getChapter(time);
           var li = document.createElement('li');
           li.textContent = formatTimestamp(time) + ': ' + chapterTitle;
 	  addSeekHandler(li, time);
