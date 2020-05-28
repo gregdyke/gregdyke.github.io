@@ -52,7 +52,7 @@ function Chapters() {
     return this.times
   }
 
-  this.getChapterByTime(time) {
+  this.getChapter = function(time) {
     return this.chapters[time]
   }
 }
@@ -76,7 +76,7 @@ function StructuredChapters() {
     }
   }
 
-  this.getSections() {
+  this.getSections = function() {
     return this.sections
   }
 
@@ -84,7 +84,7 @@ function StructuredChapters() {
     return this.chapters.getTimes()
   }
 
-  this.getChapterByTime(time) {
+  this.getChapter = function(time) {
     return this.chapters.getChapterByTime(time)
   }
 }
