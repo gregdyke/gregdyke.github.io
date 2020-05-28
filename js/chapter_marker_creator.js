@@ -21,7 +21,7 @@ window.ChapterMarkerCreator = {
         }
       } else {
 	chapters = new StructuredChapters()
-	chapterdiv.children("li").each(function() {
+	chapterdiv.children("ul").children("li").each(function() {
   	  var $li = $(this)
 	  chapters.newSection($li.contents().get(0).textContent)
 	  $li.children("ul").children("li").each(function() {
