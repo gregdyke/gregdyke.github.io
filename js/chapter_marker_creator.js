@@ -12,7 +12,7 @@ window.ChapterMarkerCreator = {
       var chapterdiv = $(this).next();
       if (!chapterdiv.hasClass("chapters")) return;
       var nodes = chapterdiv.contents();
-      var chapters = {};
+      var chapters = new Chapters();
       for (var i=0;i<nodes.length; i++) {
 	var node = nodes.get(i); 
 	var parts = node.textContent.trim().match(/@?(?:(\d?\d)[:h])?(\d?\d)(?:[:m]|mn)(\d\d)s?\s*(.*)/);
@@ -21,7 +21,7 @@ window.ChapterMarkerCreator = {
 	  if (parts[1]) time+= parts[1]*3600;
 	  time+=parts[2]*60;
 	  time+=parts[3]*1;
-	  chapters[time]=parts[4];
+	  chapters.addChapter(time, parts[4]);
 	}
 	node.parentNode.removeChild(node);
       }
@@ -33,9 +33,63 @@ window.ChapterMarkerCreator = {
       });
 
     });
-    
+	 
+function Chapters() {
+  this.chapters = {}
+  this.times = []
+
+  this.addChapter = function(time, chapter) {
+    this.chapters[time] = this.chapter
+    this.times.push(time)
+  }
+
+  this.getTimes = function() {
+    // Sort the times numerically for display purposes.
+    // See https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/sort#Examples
+    this.times.sort(function(a,b) {
+      return a - b;
+    });
+    return this.times
+  }
+
+  this.getChapterByTime(time) {
+    return this.chapters[time]
   }
 }
+
+function StructuredChapters() {
+  this.sections = []
+  this.currentSection = null;
+  this.chapters = new Chapters()
+
+  this.newSection = function(name) {
+    this.currentSection = {
+      "title": name,
+      "times": []
+    }
+  }
+
+  this.addChapter = function(time, chapter) {
+    this.chapters.addTime(time, chapter)
+    if (this.currentSection) {
+      this.currentSection.times.push(time)
+    }
+  }
+
+  this.getSections() {
+    return this.sections
+  }
+
+  this.getTimes = function() {
+    return this.chapters.getTimes()
+  }
+
+  this.getChapterByTime(time) {
+    return this.chapters.getChapterByTime(time)
+  }
+}
+    
+  }} // end ChapterMarkerCreator and ChapterMarkerCreator.findAll
 
 
 /*
@@ -76,21 +130,11 @@ window.ChapterMarkerPlayer = {
     //                  YT.Player constructor. See https://developers.google.com/youtube/iframe_api_reference#Loading_a_Video_Player
 
     if (!('chapters' in params)) {
-      throw 'The "chapters" parameter must be set to the mapping of times to chapter titles.';
+      throw 'The "chapters" parameter must be a chapters Object.';
     }
 // END_INCLUDE(validation1)
 // BEGIN_INCLUDE(time_sort)
-    var times = [];
-    for (var time in params.chapters) {
-      if (params.chapters.hasOwnProperty(time)) {
-        times.push(time);
-      }
-    }
-    // Sort the times numerically for display purposes.
-    // See https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/sort#Examples
-    times.sort(function(a,b) {
-      return a - b;
-    });
+    var times = params.chapters.getTimes();
 // END_INCLUDE(time_sort)
     var width = params.width || DEFAULT_PLAYER_WIDTH;
 
@@ -193,7 +237,7 @@ window.ChapterMarkerPlayer = {
 
       for (var i = 0; i < times.length; i++) {
         var time = times[i];
-        var chapterTitle = params.chapters[time];
+        var chapterTitle = params.chapters.getChapter(time);
 
         var li = document.createElement('li');
         li.setAttribute('data-time', time);
@@ -262,7 +306,7 @@ window.ChapterMarkerPlayer = {
 	this.curr.textContent = "";
 
 	if (curri>=0) {
-	  this.curr.textContent = this.chapters[this.times[curri]];
+	  this.curr.textContent = this.chapters.getChapter(this.times[curri]);
 	}
 
 	if (previ>=0) {
