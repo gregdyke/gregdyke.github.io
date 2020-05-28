@@ -11,19 +11,23 @@ window.ChapterMarkerCreator = {
     youtubeframes.each(function() {
       var chapterdiv = $(this).next();
       if (!chapterdiv.hasClass("chapters")) return;
-      var nodes = chapterdiv.contents();
       var chapters = new Chapters();
-      for (var i=0;i<nodes.length; i++) {
-	var node = nodes.get(i); 
-	var parts = node.textContent.trim().match(/@?(?:(\d?\d)[:h])?(\d?\d)(?:[:m]|mn)(\d\d)s?\s*(.*)/);
-	if (parts) {
-	  var time = 0;
-	  if (parts[1]) time+= parts[1]*3600;
-	  time+=parts[2]*60;
-	  time+=parts[3]*1;
-	  chapters.addChapter(time, parts[4]);
-	}
-	node.parentNode.removeChild(node);
+      if (chapterdiv.get(0).tagName == "DIV") {
+	var nodes = chapterdiv.contents();
+        for (var i=0;i<nodes.length; i++) {
+	  var node = nodes.get(i); 
+	  addChapter(node.textContent, chapters)
+	  node.parentNode.removeChild(node);
+        }
+      } else {
+	chapters = new StructuredChapters()
+	chapterdiv.children("li").each(function() {
+  	  var $li = $(this)
+	  chapters.newSection($li.contents().get(0).textContent)
+	  $li.children("ul").children("li").each(function() {
+	    addChapter(this.textContent, chapters)
+	  })
+	})
       }
       ChapterMarkerPlayer.insert({
 	container: this,
@@ -67,10 +71,11 @@ function StructuredChapters() {
       "title": name,
       "times": []
     }
+    this.sections.push(this.currentSection)
   }
 
   this.addChapter = function(time, chapter) {
-    this.chapters.addTime(time, chapter)
+    this.chapters.addChapter(time, chapter)
     if (this.currentSection) {
       this.currentSection.times.push(time)
     }
@@ -85,7 +90,18 @@ function StructuredChapters() {
   }
 
   this.getChapter = function(time) {
-    return this.chapters.getChapterByTime(time)
+    return this.chapters.getChapter(time)
+  }
+}
+
+function addChapter(text, chapters) {
+  var parts = text.trim().match(/@?(?:(\d?\d)[:h])?(\d?\d)(?:[:m]|mn)(\d\d)s?\s*(.*)/);
+  if (parts) {
+    var time = 0;
+    if (parts[1]) time+= parts[1]*3600;
+    time+=parts[2]*60;
+    time+=parts[3]*1;
+    chapters.addChapter(time, parts[4]);
   }
 }
     
