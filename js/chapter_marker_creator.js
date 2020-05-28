@@ -12,7 +12,7 @@ window.ChapterMarkerCreator = {
       var chapterdiv = $(this).next();
       if (!chapterdiv.hasClass("chapters")) return;
       var chapters = new Chapters();
-      if (chapterdiv.get(0).tagName == "DIV") {
+      if (chapterdiv.children("ul").length == 0) {
 	var nodes = chapterdiv.contents();
         for (var i=0;i<nodes.length; i++) {
 	  var node = nodes.get(i); 
@@ -28,6 +28,7 @@ window.ChapterMarkerCreator = {
 	    addChapter(this.textContent, chapters)
 	  })
 	})
+	chapterdiv.empty()
       }
       ChapterMarkerPlayer.insert({
 	container: this,
@@ -246,10 +247,10 @@ window.ChapterMarkerPlayer = {
     // calls the iframe player API to seek to a specific timestamp in the video.
     // This is a private method that isn't exposed via the ChapterMarkerPlayer namespace.
     function addChapterMarkers(containerElement, player, seeker) {
-      var ol = document.createElement('ol');
-      ol.setAttribute('class', 'chapter-list');
-      ol.setAttribute('style', 'width: ' + width + 'px');
-      jQuery(containerElement).next().append(ol);
+      var markersRoot = document.createElement('ol');
+      if (params.chapters.getSections()) {
+      markersRoot.setAttribute('class', 'chapter-list');
+      markersRoot.setAttribute('style', 'width: ' + width + 'px');
 
       for (var i = 0; i < times.length; i++) {
         var time = times[i];
@@ -263,8 +264,10 @@ window.ChapterMarkerPlayer = {
           player.seekTo(this.getAttribute('data-time'));
 	  seeker.seekTo(this.getAttribute('data-time'));
         };
-        ol.appendChild(li);
+        markersRoot.appendChild(li);
       }
+      }
+      jQuery(containerElement).next().append(markersRoot);
     }
 
 // END_INCLUDE(add_chapter_markers)
