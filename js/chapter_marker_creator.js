@@ -249,17 +249,28 @@ window.ChapterMarkerPlayer = {
     function addChapterMarkers(containerElement, player, seeker) {
       var markersRoot = document.createElement('ol');
       if (params.chapters.getSections()) {
-      markersRoot.setAttribute('class', 'chapter-list');
-      markersRoot.setAttribute('style', 'width: ' + width + 'px');
+        markersRoot.setAttribute('class', 'chapter-list');
+        markersRoot.setAttribute('style', 'width: ' + width + 'px');
 
-      for (var i = 0; i < times.length; i++) {
-        var time = times[i];
-        var chapterTitle = params.chapters.getChapter(time);
-        var li = document.createElement('li');
-        li.textContent = formatTimestamp(time) + ': ' + chapterTitle;
-	addSeekHandler(li, time);
-        markersRoot.appendChild(li);
-      }
+        for (var i = 0; i < times.length; i++) {
+          var time = times[i];
+          var chapterTitle = params.chapters.getChapter(time);
+          var li = document.createElement('li');
+          li.textContent = formatTimestamp(time) + ': ' + chapterTitle;
+	  addSeekHandler(li, time);
+          markersRoot.appendChild(li);
+        }
+      } else {
+	markersRoot = $("<table class='chapter-table'></table>")
+        chapters.getSections().forEach(function(section) {
+          var $tr = $("<tr><td>" + section.title + "</td></tr>")
+          section.times.forEach(function(time) {
+            var $td = $("<td class='chapter-td'>" + chapters.getChapter(time) + "</td>")
+	    addSeekHandler($td.get(0), time)
+            $tr.append($td)
+          })
+          markersRoot.append($tr)
+        })
       }
       jQuery(containerElement).next().append(markersRoot);
 	    
