@@ -255,19 +255,22 @@ window.ChapterMarkerPlayer = {
       for (var i = 0; i < times.length; i++) {
         var time = times[i];
         var chapterTitle = params.chapters.getChapter(time);
-
         var li = document.createElement('li');
-        li.setAttribute('data-time', time);
         li.textContent = formatTimestamp(time) + ': ' + chapterTitle;
-        li.onclick = function() {
-          // 'this' will refer to the element that was clicked
-          player.seekTo(this.getAttribute('data-time'));
-	  seeker.seekTo(this.getAttribute('data-time'));
-        };
+	addSeekHandler(li, time);
         markersRoot.appendChild(li);
       }
       }
       jQuery(containerElement).next().append(markersRoot);
+	    
+      function addSeekHandler(elem, time) {
+	elem.setAttribute('data-time', time);
+	elem.onclick = function() {
+          // 'this' will refer to the element that was clicked
+          player.seekTo(this.getAttribute('data-time'));
+	  seeker.seekTo(this.getAttribute('data-time'));
+        };
+      }
     }
 
 // END_INCLUDE(add_chapter_markers)
