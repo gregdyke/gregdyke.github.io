@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-02-11
+date: 2024-04-09
 title: "What are directions in Alexander Technique?"
 tags: alexander technique, directions
 ---
